@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "date": "2026-04-04",
-  "changelog": "Phiên bản đầu tiên: auto-save, tooltip, nhóm job thông minh, cập nhật từ xa",
+  "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.0.0",
   "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.0/BPHH-DocGen-1.0.0-arm64.dmg",
-  "mac_x64":   "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.0/BPHH-DocGen-1.0.0.dmg",
-  "win_x64":   "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.0/BPHH-DocGen.Setup.1.0.0.exe"
+  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.0/BPHH-DocGen-1.0.0.dmg",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.0/BPHH-DocGen%20Setup%201.0.0.exe"
 }

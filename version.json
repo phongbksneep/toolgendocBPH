@@ -4,5 +4,6 @@
   "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.0.3",
   "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.3/BPHH-DocGen-1.0.3-arm64.dmg",
   "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.3/BPHH-DocGen-1.0.3.dmg",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.3/BPHH-DocGen%20Setup%201.0.3.exe"
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.3/BPHH-DocGen-Setup-1.0.3.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.3/BPHH-DocGen-1.0.3-x64.zip"
 }

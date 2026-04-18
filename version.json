@@ -1,9 +1,9 @@
 {
-  "version": "1.0.17",
-  "date": "2026-04-08",
-  "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.0.17",
-  "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.17/BPHH-DocGen-1.0.17-arm64.dmg",
-  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.17/BPHH-DocGen-1.0.17.dmg",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.17/BPHH-DocGen-Setup-1.0.17.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.0.17/BPHH-DocGen-1.0.17-x64.zip"
+  "version": "1.1.0",
+  "date": "2026-04-18",
+  "changelog": "Template editor UX major refresh (wider workspace, Word-like preview, panel toggles) + runtime/data sync hardening.",
+  "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-1.1.0-arm64.dmg",
+  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-1.1.0.dmg",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-Setup-1.1.0.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-1.1.0-x64.zip"
 }

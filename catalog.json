@@ -1,0 +1,1882 @@
+{
+  "GLOBAL__0100150619_167": {
+    "owner": "GLOBAL",
+    "label": "MST đơn vị TC",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "0100150619-167"
+  },
+  "GLOBAL__0106905841": {
+    "owner": "GLOBAL",
+    "label": "MST đơn vị TVGS",
+    "files": [
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "0106905841"
+  },
+  "GLOBAL__01_2026": {
+    "owner": "GLOBAL",
+    "label": "Mốc thời gian phụ lục (1)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "…./01/2026"
+  },
+  "GLOBAL__01_2026_2": {
+    "owner": "GLOBAL",
+    "label": "Mốc thời gian phụ lục (2)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "...../01/2026"
+  },
+  "GLOBAL__01_2026_h_tv_bidv_nhn_t": {
+    "owner": "GLOBAL",
+    "label": "Số hợp đồng tư vấn TK",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 3,
+    "sample": "01/2026/HĐTV/BIDV.NHN-ĐT"
+  },
+  "GLOBAL__01_2026_h_tv_bidv_nhn_t_ngay_2026": {
+    "owner": "GLOBAL",
+    "label": "Số và ngày hợp đồng tư vấn TK",
+    "files": [
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx"
+    ],
+    "count": 3,
+    "sample": "01/2026/HĐTV/BIDV.NHN-ĐT ngày …./…./2026"
+  },
+  "GLOBAL__01_cai": {
+    "owner": "GLOBAL",
+    "label": "Số lượng máy (01 cái)",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "01 cái"
+  },
+  "GLOBAL__02_cai": {
+    "owner": "GLOBAL",
+    "label": "Số lượng thiết bị dòng 2",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "02 cái"
+  },
+  "GLOBAL__02_ngay": {
+    "owner": "GLOBAL",
+    "label": "Thời gian thực hiện đợt 3 (ngày)",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 3,
+    "sample": "02 ngày"
+  },
+  "GLOBAL__02_plh_bidv_lso_bph": {
+    "owner": "GLOBAL",
+    "label": "Số phụ lục hợp đồng",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "02/PLHĐ/BIDV.LSO-BPH"
+  },
+  "GLOBAL__03_cai": {
+    "owner": "GLOBAL",
+    "label": "Số lượng thiết bị dòng 3",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "03 cái"
+  },
+  "GLOBAL__04_cai": {
+    "owner": "GLOBAL",
+    "label": "Số lượng thiết bị dòng 4",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "04 cái"
+  },
+  "GLOBAL__05_ngay": {
+    "owner": "GLOBAL",
+    "label": "Thời gian thực hiện đợt 2 (ngày)",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 3,
+    "sample": "05 ngày"
+  },
+  "GLOBAL__0621101126007_mo_tai_ngan_hang_mb_cn_ien_bien_phu": {
+    "owner": "GLOBAL",
+    "label": "Số TK NH đơn vị TC",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "0621101126007 mở tại Ngân hàng MB CN Điện Biên Phủ"
+  },
+  "GLOBAL__0621101126007_mo_tai_ngan_hang_tmcp_quan_oi_chi_nhanh_ien_bien_p": {
+    "owner": "GLOBAL",
+    "label": "Số tài khoản nhà thầu (phụ lục)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "0621101126007 mở tại Ngân hàng TMCP Quân Đội – Chi nhánh Điện Biên Phủ"
+  },
+  "GLOBAL__07_ngay": {
+    "owner": "GLOBAL",
+    "label": "Thời gian thực hiện đợt 1 (ngày)",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 3,
+    "sample": "07 ngày"
+  },
+  "GLOBAL__09h30_ngay_29_thang_01_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Bắt đầu NT khối lượng",
+    "files": [
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 1,
+    "sample": "09h30, ngày 29 tháng 01 năm 2026"
+  },
+  "GLOBAL__10541_tb_bidv_ngay_30_3_2026": {
+    "owner": "GLOBAL",
+    "label": "Số thông báo BIDV",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx"
+    ],
+    "count": 3,
+    "sample": "10541/TB-BIDV ngày 30/3/2026"
+  },
+  "GLOBAL__108_660_800_vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 2 (VNĐ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "108.660.800 vnđ"
+  },
+  "GLOBAL__10_nguoi": {
+    "owner": "GLOBAL",
+    "label": "Số công nhân tối thiểu",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "10 người;"
+  },
+  "GLOBAL__10h30_ngay_29_thang_01_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Kết thúc NT khối lượng",
+    "files": [
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 1,
+    "sample": "10h30, ngày 29 tháng 01 năm 2026"
+  },
+  "GLOBAL__1452_q_bidv_lso_ngay_03_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Số quyết định BIDV Lam Sơn",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "BB hoàn thiện HĐ - TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 6,
+    "sample": "1452/QĐ-BIDV.LSO ngày 03/12/2025"
+  },
+  "GLOBAL__17h00_ngay_29_thang_01_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Thời điểm bắt đầu bàn giao",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "17h00, ngày 29 tháng 01 năm 2026"
+  },
+  "GLOBAL__17h30_ngay_29_thang_01_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Thời điểm kết thúc bàn giao",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "17h30, ngày 29 tháng 01 năm 2026"
+  },
+  "GLOBAL__194_967_581_vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 3 (VNĐ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "194.967.581 vnđ"
+  },
+  "GLOBAL__1_614_525_953_vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị HĐ (bằng số)",
+    "files": [
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 3,
+    "sample": "1.614.525.953 VNĐ"
+  },
+  "GLOBAL__1_700_832_734_vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị hợp đồng sau phát sinh (VNĐ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "1.700.832.734 vnđ"
+  },
+  "GLOBAL__20_nguoi": {
+    "owner": "GLOBAL",
+    "label": "Số công nhân tối đa",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "20 người."
+  },
+  "GLOBAL__25kw": {
+    "owner": "GLOBAL",
+    "label": "Công suất máy CNC (25KW)",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "25KW"
+  },
+  "GLOBAL__29_01_2026": {
+    "owner": "GLOBAL",
+    "label": "Ngày hoàn thành/Bàn giao",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "29/01/2026"
+  },
+  "GLOBAL__29_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Ngày chỉ định thầu",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "29/12/2025"
+  },
+  "GLOBAL__29_1_2026": {
+    "owner": "GLOBAL",
+    "label": "Ngày hoàn thành CT",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "29/1/2026"
+  },
+  "GLOBAL__30": {
+    "owner": "GLOBAL",
+    "label": "Tỷ lệ tạm ứng",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "30%"
+  },
+  "GLOBAL__300_000_000": {
+    "owner": "GLOBAL",
+    "label": "Giá trị hợp đồng TK (VNĐ)",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx"
+    ],
+    "count": 2,
+    "sample": "300.000.000"
+  },
+  "GLOBAL__30_ngay": {
+    "owner": "GLOBAL",
+    "label": "Thời hạn thanh toán",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "30 ngày"
+  },
+  "GLOBAL__3112_2025_h_kt_bidv_lso_bph": {
+    "owner": "GLOBAL",
+    "label": "Số HĐ TC",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 13,
+    "sample": "3112/2025/HĐKT/BIDV.LSO-BPH"
+  },
+  "GLOBAL__31_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Ngày ký/Ngày lập biên bản",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 3,
+    "sample": "31/12/2025"
+  },
+  "GLOBAL__337_500_000": {
+    "owner": "GLOBAL",
+    "label": "Giá trị quyết toán TK (VNĐ)",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 4,
+    "sample": "337.500.000"
+  },
+  "GLOBAL__4000w": {
+    "owner": "GLOBAL",
+    "label": "Công suất máy cưa (4000W)",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "4000W"
+  },
+  "GLOBAL__484_357_786_ong": {
+    "owner": "GLOBAL",
+    "label": "Giá trị tạm ứng (số)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "484.357.786 đồng"
+  },
+  "GLOBAL__5500w": {
+    "owner": "GLOBAL",
+    "label": "Công suất máy ép (5500W)",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "5500W"
+  },
+  "GLOBAL__8000w": {
+    "owner": "GLOBAL",
+    "label": "Công suất máy dán cạnh (8000W)",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "8000W"
+  },
+  "GLOBAL__86_306_781": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 1 (số)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "86.306.781"
+  },
+  "GLOBAL__86_306_781_vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 1 (VNĐ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "86.306.781 vnđ"
+  },
+  "GLOBAL__86_306_781vn": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 1 (VNĐ - viết liền)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "86.306.781vnđ"
+  },
+  "GLOBAL__8_gio_ngay_31_thang_12_nam_2025": {
+    "owner": "GLOBAL",
+    "label": "Giờ bắt đầu bàn giao mặt bằng",
+    "files": [
+      "1.BB ban giao mat bang.docx"
+    ],
+    "count": 1,
+    "sample": "8 giờ ngày 31 tháng 12 năm 2025"
+  },
+  "GLOBAL__9069_q_bidv_ngay_20_03_2026": {
+    "owner": "GLOBAL",
+    "label": "Số quyết định phê duyệt",
+    "files": [
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx"
+    ],
+    "count": 1,
+    "sample": "9069/QĐ-BIDV ngày 20/03/2026"
+  },
+  "GLOBAL__9_gio_ngay_31_thang_12_nam_2025": {
+    "owner": "GLOBAL",
+    "label": "Giờ kết thúc bàn giao mặt bằng",
+    "files": [
+      "1.BB ban giao mat bang.docx"
+    ],
+    "count": 1,
+    "sample": "9 giờ ngày 31 tháng 12 năm 2025"
+  },
+  "GLOBAL__ao_hoang_hiep": {
+    "owner": "GLOBAL",
+    "label": "Người đại diện nhà thầu ký phụ lục",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Đào Hoàng Hiệp"
+  },
+  "GLOBAL__ba_le_thuy_lien": {
+    "owner": "GLOBAL",
+    "label": "Phó trưởng ban QLCT (Bà: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Bà: Lê Thuỳ Liên"
+  },
+  "GLOBAL__ba_le_trinh_chau_thanh": {
+    "owner": "GLOBAL",
+    "label": "Kế toán BBNT KL (Bà: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Bà: Lê Trịnh Châu Thanh"
+  },
+  "GLOBAL__ba_lu_thi_huong": {
+    "owner": "GLOBAL",
+    "label": "TV TP.GDKH (Bà: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Bà: Lữ Thị Hường"
+  },
+  "GLOBAL__ba_nguyen_thi_hien": {
+    "owner": "GLOBAL",
+    "label": "Thành viên BQL (Bà: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Bà: Nguyễn Thị Hiền"
+  },
+  "GLOBAL__ba_tram_ba_muoi_bay_trieu_nam_tram_nghin_ong_chan": {
+    "owner": "GLOBAL",
+    "label": "Giá trị quyết toán bằng chữ",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 2,
+    "sample": "Ba trăm ba mươi bảy triệu, năm trăm nghìn đồng chẵn"
+  },
+  "GLOBAL__ba_tram_trieu_ong_chan": {
+    "owner": "GLOBAL",
+    "label": "Giá trị hợp đồng bằng chữ",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx"
+    ],
+    "count": 1,
+    "sample": "Ba trăm triệu đồng chẵn"
+  },
+  "GLOBAL__bang_chu_tam_muoi_sau_trieu_ba_tram_linh_sau_nghin_bay_tram_tam": {
+    "owner": "GLOBAL",
+    "label": "Giá trị phát sinh hạng mục 1 (bằng chữ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "(Bằng chữ: Tám mươi sáu triệu, ba trăm linh sáu nghìn, bảy trăm tám mươi mốt đồng)."
+  },
+  "GLOBAL__bon_tram_tam_muoi_tu_trieu_ba_tram_nam_muoi_bay_nghin_bay_tram_t": {
+    "owner": "GLOBAL",
+    "label": "Giá trị tạm ứng (chữ)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Bốn trăm tám mươi tư triệu, ba trăm năm mươi bảy nghìn, bảy trăm tám mươi sáu đồng"
+  },
+  "GLOBAL__cai_tao_sua_chua_tru_so_pgd_hac_thanh_thuoc_chi_nhanh_lam_son": {
+    "owner": "GLOBAL",
+    "label": "CẢI TẠO, SỬA CHỮA TRỤ SỞ PGD HẠC THÀNH THUỘC CHI NHÁNH LAM SƠN",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "CẢI TẠO, SỬA CHỮA TRỤ SỞ PGD HẠC THÀNH THUỘC CHI NHÁNH LAM SƠN"
+  },
+  "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_thuoc_chi_nhanh": {
+    "owner": "GLOBAL",
+    "label": "Tên CT (không có 'trụ sở')",
+    "files": [
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "BB hoàn thiện HĐ - TK.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 44,
+    "sample": "Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành thuộc Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh": {
+    "owner": "GLOBAL",
+    "label": "Tên CT (rút gọn)",
+    "files": [
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành"
+  },
+  "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan": {
+    "owner": "GLOBAL",
+    "label": "Tên CT (IN HOA)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 18,
+    "sample": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+  },
+  "GLOBAL__cai_tao_va_trang_bi_so_co_vat_chat_tru_so_pgd_hac_thanh_chi_nhan": {
+    "owner": "GLOBAL",
+    "label": "Tên DA [lỗi 'sở cở' – giữ nguyên]",
+    "files": [
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 2,
+    "sample": "Cải tạo và trang bị sở cở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__chi_nhanh_bidv_lam_son": {
+    "owner": "GLOBAL",
+    "label": "Tên chi nhánh ngân hàng",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Chi nhánh BIDV Lam Sơn"
+  },
+  "GLOBAL__chi_nhanh_lam_son": {
+    "owner": "GLOBAL",
+    "label": "Chi nhánh (IN HOA)",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 2,
+    "sample": "– CHI NHÁNH LAM SƠN"
+  },
+  "GLOBAL__cong_trinh_cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_thuo": {
+    "owner": "GLOBAL",
+    "label": "Tên công trình (biên bản sơ bộ BCKTKT)",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx"
+    ],
+    "count": 1,
+    "sample": "Công trình Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành thuộc Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung": {
+    "owner": "GLOBAL",
+    "label": "Tên TC (IN HOA)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 18,
+    "sample": "Công ty Cổ phần xây dựng và thương mại Bắc Phú Hưng"
+  },
+  "GLOBAL__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung": {
+    "owner": "GLOBAL",
+    "label": "Tên TC (CP, dấu chấm cuối)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "Công ty CP Xây dựng và Thương mại Bắc Phú Hưng"
+  },
+  "GLOBAL__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong": {
+    "owner": "GLOBAL",
+    "label": "Tên TVGS (TNHH)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+  },
+  "GLOBAL__cv_pqlnb_thanh_vien": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ CV.PQLNB – Thành viên",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 17,
+    "sample": "CV.PQLNB - Thành viên"
+  },
+  "GLOBAL__cv_pqlnb_thanh_vien_kiem_ke_toan_ban_qlct": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ CV.PQLNB – TV kiêm kế toán",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "CV.PQLNB - Thành viên kiêm kế toán Ban QLCT"
+  },
+  "GLOBAL__du_an_cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_cn_lam_so": {
+    "owner": "GLOBAL",
+    "label": "Tên dự án phụ lục (rút gọn)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Dự án Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành-CN Lam Sơn"
+  },
+  "GLOBAL__giam_oc": {
+    "owner": "GLOBAL",
+    "label": "Chức danh Giám Đốc (hoa chữ Đ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "Giám đốc"
+  },
+  "GLOBAL__ha_noi_ngay_thang_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Địa danh và thời điểm lập hợp đồng TK",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 2,
+    "sample": "Hà Nội, ngày tháng năm 2026"
+  },
+  "GLOBAL__ha_noi_ngay_thang_nam_2026_2": {
+    "owner": "GLOBAL",
+    "label": "Địa danh và thời điểm lập BB hoàn thiện HĐ TK",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx"
+    ],
+    "count": 1,
+    "sample": "Hà Nội, ngày …. Tháng ….năm 2026"
+  },
+  "GLOBAL__kiem_ke_toan_ban_qlct": {
+    "owner": "GLOBAL",
+    "label": "Phụ chức vụ kế toán BQL",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "kiêm kế toán Ban QLCT"
+  },
+  "GLOBAL__lo_25tt1_o_thi_my_inh_me_tri_phuong_tu_liem_ha_noi": {
+    "owner": "GLOBAL",
+    "label": "Địa chỉ đơn vị TC (HN)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Lô 25TT1, đô thị Mỹ Đình – Mễ Trì, phường Từ Liêm, Hà Nội"
+  },
+  "GLOBAL__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh": {
+    "owner": "GLOBAL",
+    "label": "Địa điểm CT (IN HOA)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+  },
+  "GLOBAL__may_cat_cnc": {
+    "owner": "GLOBAL",
+    "label": "Tên máy 3: Máy cắt CNC",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "Máy cắt CNC"
+  },
+  "GLOBAL__may_cua_go_dang_ban_truot": {
+    "owner": "GLOBAL",
+    "label": "Tên máy 2: Máy cưa gỗ bàn trượt",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "Máy cưa gỗ dạng bàn trượt"
+  },
+  "GLOBAL__may_dan_canh_go_tu_ong": {
+    "owner": "GLOBAL",
+    "label": "Tên máy 1: Máy dán cạnh gỗ",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "Máy dán cạnh gỗ tự động"
+  },
+  "GLOBAL__may_ep_be_mat_go_cong_nghiep": {
+    "owner": "GLOBAL",
+    "label": "Tên máy 4: Máy ép bề mặt gỗ",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 1,
+    "sample": "Máy ép bề mặt gỗ công nghiệp"
+  },
+  "GLOBAL__mot_ty_bay_tram_trieu_tam_tram_ba_muoi_hai_nghin_bay_tram_ba_muo": {
+    "owner": "GLOBAL",
+    "label": "Giá trị hợp đồng sau phát sinh (bằng chữ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "Một tỷ, bảy trăm triệu, tám trăm ba mươi hai nghìn, bảy trăm ba mươi tư đồng"
+  },
+  "GLOBAL__mot_ty_sau_tram_muoi_bon_trieu_nam_tram_hai_muoi_lam_nghin_chin": {
+    "owner": "GLOBAL",
+    "label": "Giá trị HĐ (bằng chữ)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Một tỷ, sáu trăm mười bốn triệu, năm trăm hai mươi lăm nghìn, chín trăm năm mươi ba đồng"
+  },
+  "GLOBAL__ngan_hang_tmcp_au_tu": {
+    "owner": "GLOBAL",
+    "label": "Tên ngân hàng (phần 1)",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "NGÂN HÀNG TMCP ĐẦU TƯ"
+  },
+  "GLOBAL__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam": {
+    "owner": "GLOBAL",
+    "label": "Tên CĐT (IN HOA)",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+  },
+  "GLOBAL__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son": {
+    "owner": "GLOBAL",
+    "label": "Tên CĐT + CN (IN HOA)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "BB hoàn thiện HĐ - TK.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 55,
+    "sample": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__ngay_2026": {
+    "owner": "GLOBAL",
+    "label": "Ngày quyết định BIDV (mẫu)",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx"
+    ],
+    "count": 1,
+    "sample": "ngày …/…/2026"
+  },
+  "GLOBAL__ngay_30_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Ngày HĐ bổ sung",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "ngày 30/12/2025"
+  },
+  "GLOBAL__ngay_31_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Ngày ký HĐ (dd/mm/yyyy)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 3,
+    "sample": "ngày 31/12/2025"
+  },
+  "GLOBAL__ngay_31_thang_12_nam_2025": {
+    "owner": "GLOBAL",
+    "label": "Ngày ký HĐ (chữ – biến thể 3)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 8,
+    "sample": "ngày 31 tháng 12 năm 2025"
+  },
+  "GLOBAL__nguyen_ba_thang": {
+    "owner": "GLOBAL",
+    "label": "Công nhân 1 (họ tên)",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "Nguyễn Bá Thắng"
+  },
+  "GLOBAL__nguyen_inh_iep": {
+    "owner": "GLOBAL",
+    "label": "CHT CT (chỉ họ tên)",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "Nguyễn Đình Điệp"
+  },
+  "GLOBAL__nguyen_thi_hang": {
+    "owner": "GLOBAL",
+    "label": "Công nhân 2 (họ tên)",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "Nguyễn Thị Hằng"
+  },
+  "GLOBAL__ong_ao_hoang_hiep": {
+    "owner": "GLOBAL",
+    "label": "Người ký TC (không dấu ':')",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 8,
+    "sample": "Ông: Đào Hoàng Hiệp"
+  },
+  "GLOBAL__ong_ngo_chi_cuong": {
+    "owner": "GLOBAL",
+    "label": "Trưởng ban QLCT (không dấu ':')",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "BB hoàn thiện HĐ - TK.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 14,
+    "sample": "Ông: Ngô Chí Cường"
+  },
+  "GLOBAL__ong_nguyen_inh_iep": {
+    "owner": "GLOBAL",
+    "label": "CHT công trình (Ông: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "Ông: Nguyễn Đình Điệp"
+  },
+  "GLOBAL__ong_phan_duy_dung": {
+    "owner": "GLOBAL",
+    "label": "Người ký TVGS (2 dấu cách)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "Ông: Phan Duy Dũng"
+  },
+  "GLOBAL__ong_phung_tuan_gia": {
+    "owner": "GLOBAL",
+    "label": "TV BQL BBNT KL (Ông: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Ông: Phùng Tuấn Gia"
+  },
+  "GLOBAL__ong_vuong_xuan_thanh": {
+    "owner": "GLOBAL",
+    "label": "Đại diện TVGS (Ông: Họ Tên)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "Ông: Vương Xuân Thành"
+  },
+  "GLOBAL__pho_giam_oc_truong_ban_qlct": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ Trưởng ban QLCT",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 8,
+    "sample": "Phó giám đốc - Trưởng ban QLCT"
+  },
+  "GLOBAL__q_bidv_nhn": {
+    "owner": "GLOBAL",
+    "label": "Số quyết định BIDV (mẫu)",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx"
+    ],
+    "count": 1,
+    "sample": "…/QĐ-BIDV.NHN"
+  },
+  "GLOBAL__q_bidv_nhn_ngay_02_2026": {
+    "owner": "GLOBAL",
+    "label": "Số + ngày quyết định BIDV (mẫu tháng 02/2026)",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx"
+    ],
+    "count": 1,
+    "sample": "…/QĐ-BIDV.NHN ngày …/02/2026"
+  },
+  "GLOBAL__q_bidv_nhn_ngay_2026": {
+    "owner": "GLOBAL",
+    "label": "Số và ngày quyết định BIDV (mẫu)",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "Hợp đồng TK.docx"
+    ],
+    "count": 2,
+    "sample": "…/QĐ-BIDV.NHN ngày …/…/2026"
+  },
+  "GLOBAL__quyet_inh_quyet_inh_so_1599_q_bidv_lso_ngay_30_12_2025": {
+    "owner": "GLOBAL",
+    "label": "Quyết định phê duyệt phụ lục (1599/QĐ-BIDV.LSO)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Quyết định Quyết định số 1599/QĐ-BIDV.LSO ngày 30/12/2025"
+  },
+  "GLOBAL__quyet_inh_so_10618_q_bidv_ngay_03_12_2025": {
+    "owner": "GLOBAL",
+    "label": "QĐ phê duyệt DA (BIDV TW)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Quyết định số 10618/QĐ-BIDV ngày 03/12/2025"
+  },
+  "GLOBAL__quyet_inh_so_1452_q_bidv_lso_ngay_03_12_2025": {
+    "owner": "GLOBAL",
+    "label": "QĐ phê duyệt DA (CN)",
+    "files": [
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx"
+    ],
+    "count": 3,
+    "sample": "Quyết định số 1452/QĐ-BIDV.LSO ngày 03/12/2025"
+  },
+  "GLOBAL__quyet_inh_so_1599_q_bidv_lso": {
+    "owner": "GLOBAL",
+    "label": "QĐ khác CN",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Quyết định số 1599/QĐ-BIDV.LSO"
+  },
+  "GLOBAL__quyet_inh_so_42041_q_bidv_ngay_26_12_2025": {
+    "owner": "GLOBAL",
+    "label": "QĐ chỉ định thầu (BIDV TW)",
+    "files": [
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 2,
+    "sample": "Quyết định số 42041/QĐ-BIDV ngày 26/12/2025"
+  },
+  "GLOBAL__quyet_inh_so_q_bidv_lso": {
+    "owner": "GLOBAL",
+    "label": "Số quyết định phụ lục (điền tay)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Quyết định số ......./QĐ-BIDV.LSO"
+  },
+  "GLOBAL__so_03": {
+    "owner": "GLOBAL",
+    "label": "Số phụ lục/biểu mẫu (03)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "số 03"
+  },
+  "GLOBAL__so_07_phan_chu_trinh_phuong_hac_thanh_tinh_thanh_hoa": {
+    "owner": "GLOBAL",
+    "label": "Địa chỉ Chi nhánh",
+    "files": [
+      "BB hoàn thiện HĐ - TK.docx",
+      "Dự thảo Hợp đồng TK.docx",
+      "Hợp đồng TC.docx",
+      "Hợp đồng TK.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 7,
+    "sample": "Số 07 Phan Chu Trinh, phường Hạc Thành, tỉnh Thanh Hoá."
+  },
+  "GLOBAL__so_25tt1_o_thi_my_inh_me_tri_phuong_tu_liem_thanh_pho_ha_noi": {
+    "owner": "GLOBAL",
+    "label": "Địa chỉ nhà thầu (phụ lục)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Số 25TT1, đô thị Mỹ Đình, Mễ Trì, phường Từ Liêm, thành phố Hà Nội"
+  },
+  "GLOBAL__so_3": {
+    "owner": "GLOBAL",
+    "label": "Số phụ lục/biểu mẫu",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 11,
+    "sample": "SỐ 3"
+  },
+  "GLOBAL__so_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh": {
+    "owner": "GLOBAL",
+    "label": "Địa điểm công trình (dòng thường)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx"
+    ],
+    "count": 5,
+    "sample": "Số NQ 7-10 Dự án số 1 Khu đô thị Trung tâm phường Hạc Thành, tỉnh Thanh Hoá."
+  },
+  "GLOBAL__thanh_hoa_ngay_thang_nam_202": {
+    "owner": "GLOBAL",
+    "label": "Ngày tiêu đề (để trống – điền tay)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 6,
+    "sample": "Thanh Hoá, ngày tháng năm 202"
+  },
+  "GLOBAL__thanh_toan_lan_01_sau_khi_cong_trinh_uoc_nghiem_thu_ban_giao_ua": {
+    "owner": "GLOBAL",
+    "label": "Điều khoản TT lần 1 (đến 90%)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Thanh toán lần 01: Sau khi công trình được nghiệm thu bàn giao đưa vào sử dụng, toàn bộ hồ sơ quyết toán được Chủ đầu tư chấp thuận, tổng giá trị thanh toán đến 90% giá trị khối lượng hoàn thành nghiệm thu theo hợp đồng và Phụ lục hợp đồng đã được ký kết (nếu có)."
+  },
+  "GLOBAL__thanh_toan_lan_02_thanh_toan_en_100_gia_tri_quyet_toan_uoc_duyet": {
+    "owner": "GLOBAL",
+    "label": "Điều khoản TT lần 2 (đến 100%)",
+    "files": [
+      "Hợp đồng TC.docx"
+    ],
+    "count": 1,
+    "sample": "Thanh toán lần 02: Thanh toán đến 100% giá trị quyết toán được duyệt sau khi quyết toán được người có thẩm quyền phê duyệt và nhà thầu hoàn thành toàn bộ nghĩa vụ theo hợp đồng, Nhà thầu cung cấp Bảo lãnh Bảo hành công trình cho Bên A theo quy định hiện hành, số tiền bảo hành công trình 5% giá trị quyết toán A-B. Bảo lãnh bảo hành công trình: Bên B có thể thực hiện một trong các biện pháp: Thư bảo lãnh hoặc đặt cọc bằng Séc"
+  },
+  "GLOBAL__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha": {
+    "owner": "GLOBAL",
+    "label": "Tên gói thầu (thường)",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "Hợp đồng TC.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 16,
+    "sample": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+  },
+  "GLOBAL__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha_2": {
+    "owner": "GLOBAL",
+    "label": "Tên gói thầu phụ lục (đầy đủ)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành thuộc dự án Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__tot": {
+    "owner": "GLOBAL",
+    "label": "Tình trạng: Tốt",
+    "files": [
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 4,
+    "sample": "Tốt"
+  },
+  "GLOBAL__tp_gdkh_thanh_vien": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ TP.GDKH – Thành viên",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx",
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 4,
+    "sample": "TP.GDKH - Thành viên"
+  },
+  "GLOBAL__tp_ho_chi_minh_ngay_thang_nam_2026": {
+    "owner": "GLOBAL",
+    "label": "Địa danh và thời điểm lập biên bản nghiệm thu",
+    "files": [
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx"
+    ],
+    "count": 1,
+    "sample": "Tp Hồ Chí Minh, ngày …. tháng …. năm 2026"
+  },
+  "GLOBAL__tp_khdn_thanh_vien": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ TP.KHDN – Thành viên",
+    "files": [
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx"
+    ],
+    "count": 4,
+    "sample": "TP.KHDN - Thành viên"
+  },
+  "GLOBAL__tp_qlnb_pho_truong_ban": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ Phó trưởng ban QLCT",
+    "files": [
+      "1.BB ban giao mat bang.docx",
+      "2.BB Ktra Điều kiện Thi công.docx",
+      "3.BB Nghiệm thu nhân lực.docx",
+      "4.BB ktra máy móc.docx",
+      "BBBG đưa vào sử dụng.docx",
+      "BBNT khối lượng hoàn thành.docx"
+    ],
+    "count": 7,
+    "sample": "TP.QLNB - Phó trưởng ban"
+  },
+  "GLOBAL__tp_qlnb_thanh_vien": {
+    "owner": "GLOBAL",
+    "label": "Chức vụ TP.QLNB – Thành viên",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "TP.QLNB – Thành viên"
+  },
+  "GLOBAL__trinh_van_tuan": {
+    "owner": "GLOBAL",
+    "label": "Cán bộ kỹ thuật (họ tên)",
+    "files": [
+      "3.BB Nghiệm thu nhân lực.docx"
+    ],
+    "count": 1,
+    "sample": "Trịnh Văn Tuấn"
+  },
+  "GLOBAL__tru_so_ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam": {
+    "owner": "GLOBAL",
+    "label": "Trụ sở CĐT (phụ lục)",
+    "files": [
+      "PHỤ LỤC HỢP ĐỒNG PS.docx"
+    ],
+    "count": 1,
+    "sample": "Trụ sở Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+  },
+  "GLOBAL__truong_ban_qlct": {
+    "owner": "GLOBAL",
+    "label": "Chức danh đại diện CĐT",
+    "files": [
+      "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "BB NGHIEM THU SƠ BỘ BCKTKT.docx"
+    ],
+    "count": 2,
+    "sample": "Trưởng Ban QLCT"
+  },
+  "GLOBAL__va_phat_trien_viet_nam": {
+    "owner": "GLOBAL",
+    "label": "Tên ngân hàng (phần 2)",
+    "files": [
+      "BBBG đưa vào sử dụng.docx"
+    ],
+    "count": 1,
+    "sample": "VÀ PHÁT TRIỂN VIỆT NAM"
+  },
+  "LIST_NTCV__16_30_ngay_01_thang_01_nam_2026": {
+    "owner": "LIST_NTCV",
+    "label": "Giờ bắt đầu nghiệm thu công việc",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "16:30, ngày 01 tháng 01 năm 2026"
+  },
+  "LIST_NTCV__17_30_ngay_01_thang_01_nam_2026": {
+    "owner": "LIST_NTCV",
+    "label": "Giờ kết thúc nghiệm thu công việc",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "17:30, ngày 01 tháng 01 năm 2026"
+  },
+  "LIST_NTCV__bb_01_ntcv": {
+    "owner": "LIST_NTCV",
+    "label": "Số biên bản NTCV (VD: BB-01/NTCV)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "BB-01/NTCV"
+  },
+  "LIST_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan": {
+    "owner": "LIST_NTCV",
+    "label": "Tên công trình NTCV (IN HOA)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+  },
+  "LIST_NTCV__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung": {
+    "owner": "LIST_NTCV",
+    "label": "Tên nhà thầu trong NTCV",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+  },
+  "LIST_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong": {
+    "owner": "LIST_NTCV",
+    "label": "Tên TVGS trong NTCV",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+  },
+  "LIST_NTCV__hoang_cong_chung": {
+    "owner": "LIST_NTCV",
+    "label": "Tên Cán bộ GS",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": ": Hoàng Công Chung"
+  },
+  "LIST_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh": {
+    "owner": "LIST_NTCV",
+    "label": "Địa điểm thi công (IN HOA)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+  },
+  "LIST_NTCV__nguyen_inh_iep": {
+    "owner": "LIST_NTCV",
+    "label": "Tên CHT (ký tên – không có Ông:)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": ": Nguyễn Đình Điệp"
+  },
+  "LIST_NTCV__ong": {
+    "owner": "LIST_NTCV",
+    "label": "Tiền tố Ông (dùng trước tên TVGS)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 4,
+    "sample": "Ông"
+  },
+  "LIST_NTCV__so_3": {
+    "owner": "LIST_NTCV",
+    "label": "Số biểu mẫu NTCV",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "SỐ 3"
+  },
+  "LIST_NTCV__thanh_hoa_ngay_31_thang_12_nam_2025": {
+    "owner": "LIST_NTCV",
+    "label": "Ngày lập biên bản NTCV",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Thanh Hoá, ngày 31 tháng 12 năm 2025"
+  },
+  "LIST_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha": {
+    "owner": "LIST_NTCV",
+    "label": "Tên gói thầu NTCV (IN HOA)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+  },
+  "LIST_NTCV__thi_cong_thao_lap_dich_chuyen_ieu_hoa": {
+    "owner": "LIST_NTCV",
+    "label": "Tên công việc nghiệm thu",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Thi công tháo lắp dịch chuyển điều hoà."
+  },
+  "LIST_NTCV__trinh_van_tuan": {
+    "owner": "LIST_NTCV",
+    "label": "Tên CBKT (sau dấu hai chấm)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": ": Trịnh Văn Tuấn"
+  },
+  "LIST_NTCV__vuong_xuan_thanh": {
+    "owner": "LIST_NTCV",
+    "label": "Tên TVGS (ký tên – không có Ông:)",
+    "files": [
+      "BB Nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": ": Vương Xuân Thành"
+  },
+  "LIST_VAT_LIEU__02_ntvl": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Số biên bản NTVL",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "02/NTVL"
+  },
+  "LIST_VAT_LIEU__1": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "STT vật liệu",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "1"
+  },
+  "LIST_VAT_LIEU__2": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "STT hàng 2 (để trống nếu chỉ 1 loại VL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "2"
+  },
+  "LIST_VAT_LIEU__3": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "STT hàng 3 (để trống nếu dưới 3 loại VL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "3"
+  },
+  "LIST_VAT_LIEU__3112_2025_h_kt_bidv_lso_bph": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Số hợp đồng (dùng trong NTV liệu)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "3112/2025/HĐKT/BIDV.LSO-BPH"
+  },
+  "LIST_VAT_LIEU__cadisun": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Hãng sản xuất hàng 1",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Cadisun"
+  },
+  "LIST_VAT_LIEU__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên công trình (trong NTV liệu)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+  },
+  "LIST_VAT_LIEU__commscope": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Hãng sản xuất hàng 2",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Commscope"
+  },
+  "LIST_VAT_LIEU__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên nhà thầu trong NTVL",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+  },
+  "LIST_VAT_LIEU__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên đơn vị TVGS (trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh"
+  },
+  "LIST_VAT_LIEU__day_ien": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên vật liệu hàng 1",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Dây điện"
+  },
+  "LIST_VAT_LIEU__day_ien_day_mang_en_spotlight": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tóm tắt tên vật liệu (tiêu đề BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "dây điện, dây mạng, đèn spotlight."
+  },
+  "LIST_VAT_LIEU__day_mang": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên vật liệu hàng 2",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Dây mạng"
+  },
+  "LIST_VAT_LIEU__en_spotlight": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên vật liệu hàng 3",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Đèn spotlight"
+  },
+  "LIST_VAT_LIEU__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Địa điểm thi công (trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Lô NQ 7-10 dự án số 1 khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+  },
+  "LIST_VAT_LIEU__ngay_31_12_2025": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Ngày ký HĐ (dd/mm/yyyy – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "ngày 31/12/2025"
+  },
+  "LIST_VAT_LIEU__nguyen_inh_iep": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên CHT (ký tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Nguyễn Đình Điệp"
+  },
+  "LIST_VAT_LIEU__ong_hoang_cong_chung": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Cán bộ GS (Ông: Họ Tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Ông: Hoàng Công Chung"
+  },
+  "LIST_VAT_LIEU__ong_nguyen_inh_iep": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "CHT (Ông: Họ Tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Ông: Nguyễn Đình Điệp"
+  },
+  "LIST_VAT_LIEU__ong_trinh_van_tuan": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "CBKT (Ông: Họ Tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Ông: Trịnh Văn Tuấn"
+  },
+  "LIST_VAT_LIEU__ong_vuong_xuan_thanh": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Người ký TVGS (Ông: Họ Tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Ông: Vương Xuân Thành"
+  },
+  "LIST_VAT_LIEU__philips": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Hãng sản xuất hàng 3",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Philips"
+  },
+  "LIST_VAT_LIEU__so_3": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Số biểu mẫu NTVL",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "số 3"
+  },
+  "LIST_VAT_LIEU__thanh_hoa": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tỉnh/TP (lập biên bản NTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Thanh Hoá"
+  },
+  "LIST_VAT_LIEU__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên gói thầu TC (có dấu chấm – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 2,
+    "sample": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành"
+  },
+  "LIST_VAT_LIEU__trung_quoc": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Xuất xứ hàng 2 (nếu khác Việt Nam)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Trung Quốc"
+  },
+  "LIST_VAT_LIEU__viet_nam": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Xuất xứ vật liệu",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 2,
+    "sample": "Việt Nam"
+  },
+  "LIST_VAT_LIEU__vuong_xuan_thanh": {
+    "owner": "LIST_VAT_LIEU",
+    "label": "Tên GS (ký tên – trong BBNTVL)",
+    "files": [
+      "Nghiệm thu vật liệu.docx"
+    ],
+    "count": 1,
+    "sample": "Vương Xuân Thành"
+  },
+  "LIST_YC_NTCV__01": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Số lần yêu cầu",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "01"
+  },
+  "LIST_YC_NTCV__16_30_31_12_2025": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Thời điểm đề nghị nghiệm thu",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "16:30, 31/12/2025"
+  },
+  "LIST_YC_NTCV__3112_2025_h_kt_bidv_lso_bph": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Số HĐ TC (trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "3112/2025/HĐKT/BIDV.LSO-BPH"
+  },
+  "LIST_YC_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên CT (IN HOA – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+  },
+  "LIST_YC_NTCV__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên đơn vị TC (trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty CP Xây dựng và thương mại Bắc Phú Hưng"
+  },
+  "LIST_YC_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên đơn vị TVGS (trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+  },
+  "LIST_YC_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Địa điểm CT (IN HOA – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+  },
+  "LIST_YC_NTCV__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên CĐT + CN (trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+  },
+  "LIST_YC_NTCV__ngay_31_12_2025": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Ngày ký HĐ (dd/mm/yyyy – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "ngày 31/12/2025"
+  },
+  "LIST_YC_NTCV__nguyen_inh_iep": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên CHT (ký tên – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Nguyễn Đình Điệp"
+  },
+  "LIST_YC_NTCV__so_3": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Số biểu mẫu YCNTCV",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": "SỐ 3"
+  },
+  "LIST_YC_NTCV__so_lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_ti": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Địa điểm CT (thường – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Số Lô NQ 7-10 dự án số 1 Khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+  },
+  "LIST_YC_NTCV__thanh_hoa": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tỉnh/TP + dấu phẩy (trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 1,
+    "sample": "Thanh Hoá,"
+  },
+  "LIST_YC_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha": {
+    "owner": "LIST_YC_NTCV",
+    "label": "Tên gói thầu (IN HOA – trong YCNTCV)",
+    "files": [
+      "Yêu cầu nghiệm thu công việc.docx"
+    ],
+    "count": 2,
+    "sample": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+  }
+}

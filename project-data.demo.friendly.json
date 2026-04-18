@@ -1,0 +1,1537 @@
+{
+  "meta": {
+    "version": 4,
+    "description": "Friendly list-based JSON for human input (updated from highlighted source docs)",
+    "updated_at": "2026-04-18"
+  },
+  "global_fields": [
+    {
+      "key": "GLOBAL__09h30_ngay_29_thang_01_nam_2026",
+      "label": "Bắt đầu NT khối lượng",
+      "value": "09h30, ngày 29 tháng 01 năm 2026"
+    },
+    {
+      "key": "GLOBAL__chi_nhanh_lam_son",
+      "label": "Chi nhánh (IN HOA)",
+      "value": "– CHI NHÁNH LAM SƠN"
+    },
+    {
+      "key": "GLOBAL__nguyen_inh_iep",
+      "label": "CHT CT (chỉ họ tên)",
+      "value": "Nguyễn Đình Điệp"
+    },
+    {
+      "key": "GLOBAL__ong_nguyen_inh_iep",
+      "label": "CHT công trình (Ông: Họ Tên)",
+      "value": "Ông: Nguyễn Đình Điệp"
+    },
+    {
+      "key": "GLOBAL__giam_oc",
+      "label": "Chức danh Giám Đốc (hoa chữ Đ)",
+      "value": "Giám đốc"
+    },
+    {
+      "key": "GLOBAL__truong_ban_qlct",
+      "label": "Chức danh đại diện CĐT",
+      "value": "Trưởng Ban QLCT"
+    },
+    {
+      "key": "GLOBAL__cv_pqlnb_thanh_vien",
+      "label": "Chức vụ CV.PQLNB – Thành viên",
+      "value": "CV.PQLNB - Thành viên"
+    },
+    {
+      "key": "GLOBAL__cv_pqlnb_thanh_vien_kiem_ke_toan_ban_qlct",
+      "label": "Chức vụ CV.PQLNB – TV kiêm kế toán",
+      "value": "CV.PQLNB - Thành viên kiêm kế toán Ban QLCT"
+    },
+    {
+      "key": "GLOBAL__tp_qlnb_pho_truong_ban",
+      "label": "Chức vụ Phó trưởng ban QLCT",
+      "value": "TP.QLNB - Phó trưởng ban"
+    },
+    {
+      "key": "GLOBAL__tp_gdkh_thanh_vien",
+      "label": "Chức vụ TP.GDKH – Thành viên",
+      "value": "TP.GDKH - Thành viên"
+    },
+    {
+      "key": "GLOBAL__tp_khdn_thanh_vien",
+      "label": "Chức vụ TP.KHDN – Thành viên",
+      "value": "TP.KHDN - Thành viên"
+    },
+    {
+      "key": "GLOBAL__tp_qlnb_thanh_vien",
+      "label": "Chức vụ TP.QLNB – Thành viên",
+      "value": "TP.QLNB – Thành viên"
+    },
+    {
+      "key": "GLOBAL__pho_giam_oc_truong_ban_qlct",
+      "label": "Chức vụ Trưởng ban QLCT",
+      "value": "Phó giám đốc - Trưởng ban QLCT"
+    },
+    {
+      "key": "GLOBAL__trinh_van_tuan",
+      "label": "Cán bộ kỹ thuật (họ tên)",
+      "value": "Trịnh Văn Tuấn"
+    },
+    {
+      "key": "GLOBAL__nguyen_ba_thang",
+      "label": "Công nhân 1 (họ tên)",
+      "value": "Nguyễn Bá Thắng"
+    },
+    {
+      "key": "GLOBAL__nguyen_thi_hang",
+      "label": "Công nhân 2 (họ tên)",
+      "value": "Nguyễn Thị Hằng"
+    },
+    {
+      "key": "GLOBAL__25kw",
+      "label": "Công suất máy CNC (25KW)",
+      "value": "25KW"
+    },
+    {
+      "key": "GLOBAL__4000w",
+      "label": "Công suất máy cưa (4000W)",
+      "value": "4000W"
+    },
+    {
+      "key": "GLOBAL__8000w",
+      "label": "Công suất máy dán cạnh (8000W)",
+      "value": "8000W"
+    },
+    {
+      "key": "GLOBAL__5500w",
+      "label": "Công suất máy ép (5500W)",
+      "value": "5500W"
+    },
+    {
+      "key": "GLOBAL__cai_tao_sua_chua_tru_so_pgd_hac_thanh_thuoc_chi_nhanh_lam_son",
+      "label": "CẢI TẠO, SỬA CHỮA TRỤ SỞ PGD HẠC THÀNH THUỘC CHI NHÁNH LAM SƠN",
+      "value": "CẢI TẠO, SỬA CHỮA TRỤ SỞ PGD HẠC THÀNH THUỘC CHI NHÁNH LAM SƠN"
+    },
+    {
+      "key": "GLOBAL__mot_ty_sau_tram_muoi_bon_trieu_nam_tram_hai_muoi_lam_nghin_chin",
+      "label": "Giá trị HĐ (bằng chữ)",
+      "value": "Một tỷ, sáu trăm mười bốn triệu, năm trăm hai mươi lăm nghìn, chín trăm năm mươi ba đồng"
+    },
+    {
+      "key": "GLOBAL__1_614_525_953_vn",
+      "label": "Giá trị HĐ (bằng số)",
+      "value": "1.614.525.953 VNĐ"
+    },
+    {
+      "key": "GLOBAL__ba_tram_trieu_ong_chan",
+      "label": "Giá trị hợp đồng bằng chữ",
+      "value": "Ba trăm triệu đồng chẵn"
+    },
+    {
+      "key": "GLOBAL__mot_ty_bay_tram_trieu_tam_tram_ba_muoi_hai_nghin_bay_tram_ba_muo",
+      "label": "Giá trị hợp đồng sau phát sinh (bằng chữ)",
+      "value": "Một tỷ, bảy trăm triệu, tám trăm ba mươi hai nghìn, bảy trăm ba mươi tư đồng"
+    },
+    {
+      "key": "GLOBAL__1_700_832_734_vn",
+      "label": "Giá trị hợp đồng sau phát sinh (VNĐ)",
+      "value": "1.700.832.734 vnđ"
+    },
+    {
+      "key": "GLOBAL__300_000_000",
+      "label": "Giá trị hợp đồng TK (VNĐ)",
+      "value": "300.000.000"
+    },
+    {
+      "key": "GLOBAL__bang_chu_tam_muoi_sau_trieu_ba_tram_linh_sau_nghin_bay_tram_tam",
+      "label": "Giá trị phát sinh hạng mục 1 (bằng chữ)",
+      "value": "(Bằng chữ: Tám mươi sáu triệu, ba trăm linh sáu nghìn, bảy trăm tám mươi mốt đồng)."
+    },
+    {
+      "key": "GLOBAL__86_306_781",
+      "label": "Giá trị phát sinh hạng mục 1 (số)",
+      "value": "86.306.781"
+    },
+    {
+      "key": "GLOBAL__86_306_781vn",
+      "label": "Giá trị phát sinh hạng mục 1 (VNĐ - viết liền)",
+      "value": "86.306.781vnđ"
+    },
+    {
+      "key": "GLOBAL__86_306_781_vn",
+      "label": "Giá trị phát sinh hạng mục 1 (VNĐ)",
+      "value": "86.306.781 vnđ"
+    },
+    {
+      "key": "GLOBAL__108_660_800_vn",
+      "label": "Giá trị phát sinh hạng mục 2 (VNĐ)",
+      "value": "108.660.800 vnđ"
+    },
+    {
+      "key": "GLOBAL__194_967_581_vn",
+      "label": "Giá trị phát sinh hạng mục 3 (VNĐ)",
+      "value": "194.967.581 vnđ"
+    },
+    {
+      "key": "GLOBAL__ba_tram_ba_muoi_bay_trieu_nam_tram_nghin_ong_chan",
+      "label": "Giá trị quyết toán bằng chữ",
+      "value": "Ba trăm ba mươi bảy triệu, năm trăm nghìn đồng chẵn"
+    },
+    {
+      "key": "GLOBAL__337_500_000",
+      "label": "Giá trị quyết toán TK (VNĐ)",
+      "value": "337.500.000"
+    },
+    {
+      "key": "GLOBAL__bon_tram_tam_muoi_tu_trieu_ba_tram_nam_muoi_bay_nghin_bay_tram_t",
+      "label": "Giá trị tạm ứng (chữ)",
+      "value": "Bốn trăm tám mươi tư triệu, ba trăm năm mươi bảy nghìn, bảy trăm tám mươi sáu đồng"
+    },
+    {
+      "key": "GLOBAL__484_357_786_ong",
+      "label": "Giá trị tạm ứng (số)",
+      "value": "484.357.786 đồng"
+    },
+    {
+      "key": "GLOBAL__8_gio_ngay_31_thang_12_nam_2025",
+      "label": "Giờ bắt đầu bàn giao mặt bằng",
+      "value": "8 giờ ngày 31 tháng 12 năm 2025"
+    },
+    {
+      "key": "GLOBAL__9_gio_ngay_31_thang_12_nam_2025",
+      "label": "Giờ kết thúc bàn giao mặt bằng",
+      "value": "9 giờ ngày 31 tháng 12 năm 2025"
+    },
+    {
+      "key": "GLOBAL__ba_le_trinh_chau_thanh",
+      "label": "Kế toán BBNT KL (Bà: Họ Tên)",
+      "value": "Bà: Lê Trịnh Châu Thanh"
+    },
+    {
+      "key": "GLOBAL__10h30_ngay_29_thang_01_nam_2026",
+      "label": "Kết thúc NT khối lượng",
+      "value": "10h30, ngày 29 tháng 01 năm 2026"
+    },
+    {
+      "key": "GLOBAL__0100150619_167",
+      "label": "MST đơn vị TC",
+      "value": "0100150619-167"
+    },
+    {
+      "key": "GLOBAL__0106905841",
+      "label": "MST đơn vị TVGS",
+      "value": "0106905841"
+    },
+    {
+      "key": "GLOBAL__01_2026",
+      "label": "Mốc thời gian phụ lục (1)",
+      "value": "…./01/2026"
+    },
+    {
+      "key": "GLOBAL__01_2026_2",
+      "label": "Mốc thời gian phụ lục (2)",
+      "value": "...../01/2026"
+    },
+    {
+      "key": "GLOBAL__29_12_2025",
+      "label": "Ngày chỉ định thầu",
+      "value": "29/12/2025"
+    },
+    {
+      "key": "GLOBAL__29_1_2026",
+      "label": "Ngày hoàn thành CT",
+      "value": "29/1/2026"
+    },
+    {
+      "key": "GLOBAL__29_01_2026",
+      "label": "Ngày hoàn thành/Bàn giao",
+      "value": "29/01/2026"
+    },
+    {
+      "key": "GLOBAL__ngay_30_12_2025",
+      "label": "Ngày HĐ bổ sung",
+      "value": "ngày 30/12/2025"
+    },
+    {
+      "key": "GLOBAL__ngay_31_thang_12_nam_2025",
+      "label": "Ngày ký HĐ (chữ – biến thể 3)",
+      "value": "ngày 31 tháng 12 năm 2025"
+    },
+    {
+      "key": "GLOBAL__ngay_31_12_2025",
+      "label": "Ngày ký HĐ (dd/mm/yyyy)",
+      "value": "ngày 31/12/2025"
+    },
+    {
+      "key": "GLOBAL__31_12_2025",
+      "label": "Ngày ký/Ngày lập biên bản",
+      "value": "31/12/2025"
+    },
+    {
+      "key": "GLOBAL__ngay_2026",
+      "label": "Ngày quyết định BIDV (mẫu)",
+      "value": "ngày …/…/2026"
+    },
+    {
+      "key": "GLOBAL__thanh_hoa_ngay_thang_nam_202",
+      "label": "Ngày tiêu đề (để trống – điền tay)",
+      "value": "Thanh Hoá, ngày tháng năm 202"
+    },
+    {
+      "key": "GLOBAL__ong_ao_hoang_hiep",
+      "label": "Người ký TC (không dấu ':')",
+      "value": "Ông: Đào Hoàng Hiệp"
+    },
+    {
+      "key": "GLOBAL__ong_phan_duy_dung",
+      "label": "Người ký TVGS (2 dấu cách)",
+      "value": "Ông: Phan Duy Dũng"
+    },
+    {
+      "key": "GLOBAL__ao_hoang_hiep",
+      "label": "Người đại diện nhà thầu ký phụ lục",
+      "value": "Đào Hoàng Hiệp"
+    },
+    {
+      "key": "GLOBAL__ba_le_thuy_lien",
+      "label": "Phó trưởng ban QLCT (Bà: Họ Tên)",
+      "value": "Bà: Lê Thuỳ Liên"
+    },
+    {
+      "key": "GLOBAL__kiem_ke_toan_ban_qlct",
+      "label": "Phụ chức vụ kế toán BQL",
+      "value": "kiêm kế toán Ban QLCT"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_quyet_inh_so_1599_q_bidv_lso_ngay_30_12_2025",
+      "label": "Quyết định phê duyệt phụ lục (1599/QĐ-BIDV.LSO)",
+      "value": "Quyết định Quyết định số 1599/QĐ-BIDV.LSO ngày 30/12/2025"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_so_42041_q_bidv_ngay_26_12_2025",
+      "label": "QĐ chỉ định thầu (BIDV TW)",
+      "value": "Quyết định số 42041/QĐ-BIDV ngày 26/12/2025"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_so_1599_q_bidv_lso",
+      "label": "QĐ khác CN",
+      "value": "Quyết định số 1599/QĐ-BIDV.LSO"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_so_10618_q_bidv_ngay_03_12_2025",
+      "label": "QĐ phê duyệt DA (BIDV TW)",
+      "value": "Quyết định số 10618/QĐ-BIDV ngày 03/12/2025"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_so_1452_q_bidv_lso_ngay_03_12_2025",
+      "label": "QĐ phê duyệt DA (CN)",
+      "value": "Quyết định số 1452/QĐ-BIDV.LSO ngày 03/12/2025"
+    },
+    {
+      "key": "GLOBAL__q_bidv_nhn_ngay_02_2026",
+      "label": "Số + ngày quyết định BIDV (mẫu tháng 02/2026)",
+      "value": "…/QĐ-BIDV.NHN ngày …/02/2026"
+    },
+    {
+      "key": "GLOBAL__10_nguoi",
+      "label": "Số công nhân tối thiểu",
+      "value": "10 người;"
+    },
+    {
+      "key": "GLOBAL__20_nguoi",
+      "label": "Số công nhân tối đa",
+      "value": "20 người."
+    },
+    {
+      "key": "GLOBAL__3112_2025_h_kt_bidv_lso_bph",
+      "label": "Số HĐ TC",
+      "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+    },
+    {
+      "key": "GLOBAL__01_2026_h_tv_bidv_nhn_t",
+      "label": "Số hợp đồng tư vấn TK",
+      "value": "01/2026/HĐTV/BIDV.NHN-ĐT"
+    },
+    {
+      "key": "GLOBAL__01_cai",
+      "label": "Số lượng máy (01 cái)",
+      "value": "01 cái"
+    },
+    {
+      "key": "GLOBAL__02_cai",
+      "label": "Số lượng thiết bị dòng 2",
+      "value": "02 cái"
+    },
+    {
+      "key": "GLOBAL__03_cai",
+      "label": "Số lượng thiết bị dòng 3",
+      "value": "03 cái"
+    },
+    {
+      "key": "GLOBAL__04_cai",
+      "label": "Số lượng thiết bị dòng 4",
+      "value": "04 cái"
+    },
+    {
+      "key": "GLOBAL__02_plh_bidv_lso_bph",
+      "label": "Số phụ lục hợp đồng",
+      "value": "02/PLHĐ/BIDV.LSO-BPH"
+    },
+    {
+      "key": "GLOBAL__so_3",
+      "label": "Số phụ lục/biểu mẫu",
+      "value": "SỐ 3"
+    },
+    {
+      "key": "GLOBAL__so_03",
+      "label": "Số phụ lục/biểu mẫu (03)",
+      "value": "số 03"
+    },
+    {
+      "key": "GLOBAL__q_bidv_nhn",
+      "label": "Số quyết định BIDV (mẫu)",
+      "value": "…/QĐ-BIDV.NHN"
+    },
+    {
+      "key": "GLOBAL__1452_q_bidv_lso_ngay_03_12_2025",
+      "label": "Số quyết định BIDV Lam Sơn",
+      "value": "1452/QĐ-BIDV.LSO ngày 03/12/2025"
+    },
+    {
+      "key": "GLOBAL__9069_q_bidv_ngay_20_03_2026",
+      "label": "Số quyết định phê duyệt",
+      "value": "9069/QĐ-BIDV ngày 20/03/2026"
+    },
+    {
+      "key": "GLOBAL__quyet_inh_so_q_bidv_lso",
+      "label": "Số quyết định phụ lục (điền tay)",
+      "value": "Quyết định số ......./QĐ-BIDV.LSO"
+    },
+    {
+      "key": "GLOBAL__10541_tb_bidv_ngay_30_3_2026",
+      "label": "Số thông báo BIDV",
+      "value": "10541/TB-BIDV ngày 30/3/2026"
+    },
+    {
+      "key": "GLOBAL__0621101126007_mo_tai_ngan_hang_mb_cn_ien_bien_phu",
+      "label": "Số TK NH đơn vị TC",
+      "value": "0621101126007 mở tại Ngân hàng MB CN Điện Biên Phủ"
+    },
+    {
+      "key": "GLOBAL__0621101126007_mo_tai_ngan_hang_tmcp_quan_oi_chi_nhanh_ien_bien_p",
+      "label": "Số tài khoản nhà thầu (phụ lục)",
+      "value": "0621101126007 mở tại Ngân hàng TMCP Quân Đội – Chi nhánh Điện Biên Phủ"
+    },
+    {
+      "key": "GLOBAL__01_2026_h_tv_bidv_nhn_t_ngay_2026",
+      "label": "Số và ngày hợp đồng tư vấn TK",
+      "value": "01/2026/HĐTV/BIDV.NHN-ĐT ngày …./…./2026"
+    },
+    {
+      "key": "GLOBAL__q_bidv_nhn_ngay_2026",
+      "label": "Số và ngày quyết định BIDV (mẫu)",
+      "value": "…/QĐ-BIDV.NHN ngày …/…/2026"
+    },
+    {
+      "key": "GLOBAL__ba_nguyen_thi_hien",
+      "label": "Thành viên BQL (Bà: Họ Tên)",
+      "value": "Bà: Nguyễn Thị Hiền"
+    },
+    {
+      "key": "GLOBAL__07_ngay",
+      "label": "Thời gian thực hiện đợt 1 (ngày)",
+      "value": "07 ngày"
+    },
+    {
+      "key": "GLOBAL__05_ngay",
+      "label": "Thời gian thực hiện đợt 2 (ngày)",
+      "value": "05 ngày"
+    },
+    {
+      "key": "GLOBAL__02_ngay",
+      "label": "Thời gian thực hiện đợt 3 (ngày)",
+      "value": "02 ngày"
+    },
+    {
+      "key": "GLOBAL__30_ngay",
+      "label": "Thời hạn thanh toán",
+      "value": "30 ngày"
+    },
+    {
+      "key": "GLOBAL__17h00_ngay_29_thang_01_nam_2026",
+      "label": "Thời điểm bắt đầu bàn giao",
+      "value": "17h00, ngày 29 tháng 01 năm 2026"
+    },
+    {
+      "key": "GLOBAL__17h30_ngay_29_thang_01_nam_2026",
+      "label": "Thời điểm kết thúc bàn giao",
+      "value": "17h30, ngày 29 tháng 01 năm 2026"
+    },
+    {
+      "key": "GLOBAL__ong_ngo_chi_cuong",
+      "label": "Trưởng ban QLCT (không dấu ':')",
+      "value": "Ông: Ngô Chí Cường"
+    },
+    {
+      "key": "GLOBAL__tru_so_ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam",
+      "label": "Trụ sở CĐT (phụ lục)",
+      "value": "Trụ sở Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__ong_phung_tuan_gia",
+      "label": "TV BQL BBNT KL (Ông: Họ Tên)",
+      "value": "Ông: Phùng Tuấn Gia"
+    },
+    {
+      "key": "GLOBAL__ba_lu_thi_huong",
+      "label": "TV TP.GDKH (Bà: Họ Tên)",
+      "value": "Bà: Lữ Thị Hường"
+    },
+    {
+      "key": "GLOBAL__chi_nhanh_bidv_lam_son",
+      "label": "Tên chi nhánh ngân hàng",
+      "value": "Chi nhánh BIDV Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+      "label": "Tên CT (IN HOA)",
+      "value": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+    },
+    {
+      "key": "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_thuoc_chi_nhanh",
+      "label": "Tên CT (không có 'trụ sở')",
+      "value": "Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành thuộc Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh",
+      "label": "Tên CT (rút gọn)",
+      "value": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành"
+    },
+    {
+      "key": "GLOBAL__cong_trinh_cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_thuo",
+      "label": "Tên công trình (biên bản sơ bộ BCKTKT)",
+      "value": "Công trình Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành thuộc Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam",
+      "label": "Tên CĐT (IN HOA)",
+      "value": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+    },
+    {
+      "key": "GLOBAL__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son",
+      "label": "Tên CĐT + CN (IN HOA)",
+      "value": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__cai_tao_va_trang_bi_so_co_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+      "label": "Tên DA [lỗi 'sở cở' – giữ nguyên]",
+      "value": "Cải tạo và trang bị sở cở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__du_an_cai_tao_va_trang_bi_co_so_vat_chat_pgd_hac_thanh_cn_lam_so",
+      "label": "Tên dự án phụ lục (rút gọn)",
+      "value": "Dự án Cải tạo và trang bị cơ sở vật chất PGD Hạc Thành-CN Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+      "label": "Tên gói thầu (thường)",
+      "value": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+    },
+    {
+      "key": "GLOBAL__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha_2",
+      "label": "Tên gói thầu phụ lục (đầy đủ)",
+      "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành thuộc dự án Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+    },
+    {
+      "key": "GLOBAL__may_dan_canh_go_tu_ong",
+      "label": "Tên máy 1: Máy dán cạnh gỗ",
+      "value": "Máy dán cạnh gỗ tự động"
+    },
+    {
+      "key": "GLOBAL__may_cua_go_dang_ban_truot",
+      "label": "Tên máy 2: Máy cưa gỗ bàn trượt",
+      "value": "Máy cưa gỗ dạng bàn trượt"
+    },
+    {
+      "key": "GLOBAL__may_cat_cnc",
+      "label": "Tên máy 3: Máy cắt CNC",
+      "value": "Máy cắt CNC"
+    },
+    {
+      "key": "GLOBAL__may_ep_be_mat_go_cong_nghiep",
+      "label": "Tên máy 4: Máy ép bề mặt gỗ",
+      "value": "Máy ép bề mặt gỗ công nghiệp"
+    },
+    {
+      "key": "GLOBAL__ngan_hang_tmcp_au_tu",
+      "label": "Tên ngân hàng (phần 1)",
+      "value": "NGÂN HÀNG TMCP ĐẦU TƯ"
+    },
+    {
+      "key": "GLOBAL__va_phat_trien_viet_nam",
+      "label": "Tên ngân hàng (phần 2)",
+      "value": "VÀ PHÁT TRIỂN VIỆT NAM"
+    },
+    {
+      "key": "GLOBAL__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung",
+      "label": "Tên TC (CP, dấu chấm cuối)",
+      "value": "Công ty CP Xây dựng và Thương mại Bắc Phú Hưng"
+    },
+    {
+      "key": "GLOBAL__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+      "label": "Tên TC (IN HOA)",
+      "value": "Công ty Cổ phần xây dựng và thương mại Bắc Phú Hưng"
+    },
+    {
+      "key": "GLOBAL__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+      "label": "Tên TVGS (TNHH)",
+      "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+    },
+    {
+      "key": "GLOBAL__tot",
+      "label": "Tình trạng: Tốt",
+      "value": "Tốt"
+    },
+    {
+      "key": "GLOBAL__30",
+      "label": "Tỷ lệ tạm ứng",
+      "value": "30%"
+    },
+    {
+      "key": "GLOBAL__thanh_toan_lan_01_sau_khi_cong_trinh_uoc_nghiem_thu_ban_giao_ua",
+      "label": "Điều khoản TT lần 1 (đến 90%)",
+      "value": "Thanh toán lần 01: Sau khi công trình được nghiệm thu bàn giao đưa vào sử dụng, toàn bộ hồ sơ quyết toán được Chủ đầu tư chấp thuận, tổng giá trị thanh toán đến 90% giá trị khối lượng hoàn thành nghiệm thu theo hợp đồng và Phụ lục hợp đồng đã được ký kết (nếu có)."
+    },
+    {
+      "key": "GLOBAL__thanh_toan_lan_02_thanh_toan_en_100_gia_tri_quyet_toan_uoc_duyet",
+      "label": "Điều khoản TT lần 2 (đến 100%)",
+      "value": "Thanh toán lần 02: Thanh toán đến 100% giá trị quyết toán được duyệt sau khi quyết toán được người có thẩm quyền phê duyệt và nhà thầu hoàn thành toàn bộ nghĩa vụ theo hợp đồng, Nhà thầu cung cấp Bảo lãnh Bảo hành công trình cho Bên A theo quy định hiện hành, số tiền bảo hành công trình 5% giá trị quyết toán A-B. Bảo lãnh bảo hành công trình: Bên B có thể thực hiện một trong các biện pháp: Thư bảo lãnh hoặc đặt cọc bằng Séc"
+    },
+    {
+      "key": "GLOBAL__ong_vuong_xuan_thanh",
+      "label": "Đại diện TVGS (Ông: Họ Tên)",
+      "value": "Ông: Vương Xuân Thành"
+    },
+    {
+      "key": "GLOBAL__so_07_phan_chu_trinh_phuong_hac_thanh_tinh_thanh_hoa",
+      "label": "Địa chỉ Chi nhánh",
+      "value": "Số 07 Phan Chu Trinh, phường Hạc Thành, tỉnh Thanh Hoá."
+    },
+    {
+      "key": "GLOBAL__so_25tt1_o_thi_my_inh_me_tri_phuong_tu_liem_thanh_pho_ha_noi",
+      "label": "Địa chỉ nhà thầu (phụ lục)",
+      "value": "Số 25TT1, đô thị Mỹ Đình, Mễ Trì, phường Từ Liêm, thành phố Hà Nội"
+    },
+    {
+      "key": "GLOBAL__lo_25tt1_o_thi_my_inh_me_tri_phuong_tu_liem_ha_noi",
+      "label": "Địa chỉ đơn vị TC (HN)",
+      "value": "Lô 25TT1, đô thị Mỹ Đình – Mễ Trì, phường Từ Liêm, Hà Nội"
+    },
+    {
+      "key": "GLOBAL__ha_noi_ngay_thang_nam_2026_2",
+      "label": "Địa danh và thời điểm lập BB hoàn thiện HĐ TK",
+      "value": "Hà Nội, ngày …. Tháng ….năm 2026"
+    },
+    {
+      "key": "GLOBAL__tp_ho_chi_minh_ngay_thang_nam_2026",
+      "label": "Địa danh và thời điểm lập biên bản nghiệm thu",
+      "value": "Tp Hồ Chí Minh, ngày …. tháng …. năm 2026"
+    },
+    {
+      "key": "GLOBAL__ha_noi_ngay_thang_nam_2026",
+      "label": "Địa danh và thời điểm lập hợp đồng TK",
+      "value": "Hà Nội, ngày tháng năm 2026"
+    },
+    {
+      "key": "GLOBAL__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+      "label": "Địa điểm CT (IN HOA)",
+      "value": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+    },
+    {
+      "key": "GLOBAL__so_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+      "label": "Địa điểm công trình (dòng thường)",
+      "value": "Số NQ 7-10 Dự án số 1 Khu đô thị Trung tâm phường Hạc Thành, tỉnh Thanh Hoá."
+    }
+  ],
+  "jobs": [
+    {
+      "template": "Dự thảo Hợp đồng TK.docx",
+      "output": "Dự thảo Hợp đồng TK.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BB hoàn thiện HĐ - TK.docx",
+      "output": "BB hoàn thiện HĐ - TK.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "Hợp đồng TK.docx",
+      "output": "Hợp đồng TK.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "output": "BB NGHIEM THU SƠ BỘ BCKTKT.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "output": "BB NGHIEM THU CHINH THUC BCKTKT.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "1.BB ban giao mat bang.docx",
+      "output": "1.BB ban giao mat bang.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "2.BB Ktra Điều kiện Thi công.docx",
+      "output": "2.BB Ktra Điều kiện Thi công.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "3.BB Nghiệm thu nhân lực.docx",
+      "output": "3.BB Nghiệm thu nhân lực.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "4.BB ktra máy móc.docx",
+      "output": "4.BB ktra máy móc.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BBBG đưa vào sử dụng.docx",
+      "output": "BBBG đưa vào sử dụng.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BBNT khối lượng hoàn thành.docx",
+      "output": "BBNT khối lượng hoàn thành.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "Hợp đồng TC.docx",
+      "output": "Hợp đồng TC.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "PHỤ LỤC HỢP ĐỒNG PS.docx",
+      "output": "PHỤ LỤC HỢP ĐỒNG PS.docx",
+      "enabled": true,
+      "fields": []
+    },
+    {
+      "template": "BB Nghiệm thu công việc.docx",
+      "output": "12. Biên bản nghiệm thu công việc dịch chuyển điều hòa.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_NTCV__16_30_ngay_01_thang_01_nam_2026",
+          "label": "Giờ bắt đầu nghiệm thu công việc",
+          "value": "16:30, ngày 01 tháng 01 năm 2026"
+        },
+        {
+          "key": "LIST_NTCV__17_30_ngay_01_thang_01_nam_2026",
+          "label": "Giờ kết thúc nghiệm thu công việc",
+          "value": "17:30, ngày 01 tháng 01 năm 2026"
+        },
+        {
+          "key": "LIST_NTCV__bb_01_ntcv",
+          "label": "Số biên bản NTCV (VD: BB-01/NTCV)",
+          "value": "BB-01/NTCV"
+        },
+        {
+          "key": "LIST_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình NTCV (IN HOA)",
+          "value": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTCV",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên TVGS trong NTCV",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_NTCV__hoang_cong_chung",
+          "label": "Tên Cán bộ GS",
+          "value": ": Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (IN HOA)",
+          "value": "Lô NQ 7-10 Dự án số 1 khu đô thị Trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – không có Ông:)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_NTCV__ong",
+          "label": "Tiền tố Ông (dùng trước tên TVGS)",
+          "value": "Ông"
+        },
+        {
+          "key": "LIST_NTCV__so_3",
+          "label": "Số biểu mẫu NTCV",
+          "value": "SỐ 3"
+        },
+        {
+          "key": "LIST_NTCV__thanh_hoa_ngay_31_thang_12_nam_2025",
+          "label": "Ngày lập biên bản NTCV",
+          "value": "Thanh Hoá, ngày 31 tháng 12 năm 2025"
+        },
+        {
+          "key": "LIST_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu NTCV (IN HOA)",
+          "value": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+        },
+        {
+          "key": "LIST_NTCV__thi_cong_thao_lap_dich_chuyen_ieu_hoa",
+          "label": "Tên công việc nghiệm thu",
+          "value": "Thi công tháo lắp dịch chuyển điều hoà."
+        },
+        {
+          "key": "LIST_NTCV__trinh_van_tuan",
+          "label": "Tên CBKT (sau dấu hai chấm)",
+          "value": ": Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_NTCV__vuong_xuan_thanh",
+          "label": "Tên TVGS (ký tên – không có Ông:)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "BB Nghiệm thu công việc.docx",
+      "output": "13. Biên bản nghiệm thu công việc phá dỡ thạch cao.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_NTCV__16_30_ngay_01_thang_01_nam_2026",
+          "label": "Giờ bắt đầu nghiệm thu công việc",
+          "value": "16:30, ngày 01 tháng 01 năm 2026"
+        },
+        {
+          "key": "LIST_NTCV__17_30_ngay_01_thang_01_nam_2026",
+          "label": "Giờ kết thúc nghiệm thu công việc",
+          "value": "17:30, ngày 01 tháng 01 năm 2026"
+        },
+        {
+          "key": "LIST_NTCV__bb_01_ntcv",
+          "label": "Số biên bản NTCV (VD: BB-01/NTCV)",
+          "value": "BB-01/NTCV"
+        },
+        {
+          "key": "LIST_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình NTCV (IN HOA)",
+          "value": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTCV",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên TVGS trong NTCV",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_NTCV__hoang_cong_chung",
+          "label": "Tên Cán bộ GS",
+          "value": ": Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (IN HOA)",
+          "value": "Lô NQ 7-10 Dự án số 1 khu đô thị Trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – không có Ông:)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_NTCV__ong",
+          "label": "Tiền tố Ông (dùng trước tên TVGS)",
+          "value": "Ông"
+        },
+        {
+          "key": "LIST_NTCV__so_3",
+          "label": "Số biểu mẫu NTCV",
+          "value": "SỐ 3"
+        },
+        {
+          "key": "LIST_NTCV__thanh_hoa_ngay_31_thang_12_nam_2025",
+          "label": "Ngày lập biên bản NTCV",
+          "value": "Thanh Hoá, ngày 31 tháng 12 năm 2025"
+        },
+        {
+          "key": "LIST_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu NTCV (IN HOA)",
+          "value": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+        },
+        {
+          "key": "LIST_NTCV__trinh_van_tuan",
+          "label": "Tên CBKT (sau dấu hai chấm)",
+          "value": ": Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_NTCV__vuong_xuan_thanh",
+          "label": "Tên TVGS (ký tên – không có Ông:)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "BB Nghiệm thu công việc.docx",
+      "output": "14. Biên bản nghiệm thu công việc tháo dỡ đèn.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_NTCV__bb_01_ntcv",
+          "label": "Số biên bản NTCV (VD: BB-01/NTCV)",
+          "value": "BB-01/NTCV"
+        },
+        {
+          "key": "LIST_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình NTCV (IN HOA)",
+          "value": "CẢI TẠO VÀ TRANG BỊ CƠ SỞ VẬT CHẤT TRỤ SỞ PGD HẠC THÀNH – CHI NHÁNH LAM SƠN"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTCV",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên TVGS trong NTCV",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_NTCV__hoang_cong_chung",
+          "label": "Tên Cán bộ GS",
+          "value": ": Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (IN HOA)",
+          "value": "Lô NQ 7-10 Dự án số 1 khu đô thị Trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – không có Ông:)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_NTCV__ong",
+          "label": "Tiền tố Ông (dùng trước tên TVGS)",
+          "value": "Ông"
+        },
+        {
+          "key": "LIST_NTCV__so_3",
+          "label": "Số biểu mẫu NTCV",
+          "value": "SỐ 3"
+        },
+        {
+          "key": "LIST_NTCV__thanh_hoa_ngay_31_thang_12_nam_2025",
+          "label": "Ngày lập biên bản NTCV",
+          "value": "Thanh Hoá, ngày 31 tháng 12 năm 2025"
+        },
+        {
+          "key": "LIST_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu NTCV (IN HOA)",
+          "value": "THI CÔNG CẢI TẠO XÂY DỰNG VÀ TRANG BỊ CƠ SỞ VẬT CHẤT PGD HẠC THÀNH"
+        },
+        {
+          "key": "LIST_NTCV__trinh_van_tuan",
+          "label": "Tên CBKT (sau dấu hai chấm)",
+          "value": ": Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_NTCV__vuong_xuan_thanh",
+          "label": "Tên TVGS (ký tên – không có Ông:)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "Nghiệm thu vật liệu.docx",
+      "output": "6. Nghiệm thu vật liệu dây điện.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_VAT_LIEU__02_ntvl",
+          "label": "Số biên bản NTVL",
+          "value": "02/NTVL"
+        },
+        {
+          "key": "LIST_VAT_LIEU__1",
+          "label": "STT vật liệu",
+          "value": "1"
+        },
+        {
+          "key": "LIST_VAT_LIEU__2",
+          "label": "STT hàng 2 (để trống nếu chỉ 1 loại VL)",
+          "value": "2"
+        },
+        {
+          "key": "LIST_VAT_LIEU__3",
+          "label": "STT hàng 3 (để trống nếu dưới 3 loại VL)",
+          "value": "3"
+        },
+        {
+          "key": "LIST_VAT_LIEU__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số hợp đồng (dùng trong NTV liệu)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cadisun",
+          "label": "Hãng sản xuất hàng 1",
+          "value": "Cadisun"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình (trong NTV liệu)",
+          "value": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__commscope",
+          "label": "Hãng sản xuất hàng 2",
+          "value": "Commscope"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTVL",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh",
+          "label": "Tên đơn vị TVGS (trong BBNTVL)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh"
+        },
+        {
+          "key": "LIST_VAT_LIEU__day_ien",
+          "label": "Tên vật liệu hàng 1",
+          "value": "Dây điện"
+        },
+        {
+          "key": "LIST_VAT_LIEU__day_ien_day_mang_en_spotlight",
+          "label": "Tóm tắt tên vật liệu (tiêu đề BBNTVL)",
+          "value": "dây điện, dây mạng, đèn spotlight."
+        },
+        {
+          "key": "LIST_VAT_LIEU__day_mang",
+          "label": "Tên vật liệu hàng 2",
+          "value": "Dây mạng"
+        },
+        {
+          "key": "LIST_VAT_LIEU__en_spotlight",
+          "label": "Tên vật liệu hàng 3",
+          "value": "Đèn spotlight"
+        },
+        {
+          "key": "LIST_VAT_LIEU__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (trong BBNTVL)",
+          "value": "Lô NQ 7-10 dự án số 1 khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong BBNTVL)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_VAT_LIEU__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong BBNTVL)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_hoang_cong_chung",
+          "label": "Cán bộ GS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_nguyen_inh_iep",
+          "label": "CHT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_trinh_van_tuan",
+          "label": "CBKT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_vuong_xuan_thanh",
+          "label": "Người ký TVGS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Vương Xuân Thành"
+        },
+        {
+          "key": "LIST_VAT_LIEU__philips",
+          "label": "Hãng sản xuất hàng 3",
+          "value": "Philips"
+        },
+        {
+          "key": "LIST_VAT_LIEU__so_3",
+          "label": "Số biểu mẫu NTVL",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thanh_hoa",
+          "label": "Tỉnh/TP (lập biên bản NTVL)",
+          "value": "Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu TC (có dấu chấm – trong BBNTVL)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành."
+        },
+        {
+          "key": "LIST_VAT_LIEU__trung_quoc",
+          "label": "Xuất xứ hàng 2 (nếu khác Việt Nam)",
+          "value": "Trung Quốc"
+        },
+        {
+          "key": "LIST_VAT_LIEU__viet_nam",
+          "label": "Xuất xứ vật liệu",
+          "value": "Việt Nam"
+        },
+        {
+          "key": "LIST_VAT_LIEU__vuong_xuan_thanh",
+          "label": "Tên GS (ký tên – trong BBNTVL)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "Nghiệm thu vật liệu.docx",
+      "output": "7. Nghiệm thu vật liệu gỗ.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_VAT_LIEU__1",
+          "label": "STT vật liệu",
+          "value": "1"
+        },
+        {
+          "key": "LIST_VAT_LIEU__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số hợp đồng (dùng trong NTV liệu)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình (trong NTV liệu)",
+          "value": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTVL",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh",
+          "label": "Tên đơn vị TVGS (trong BBNTVL)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh"
+        },
+        {
+          "key": "LIST_VAT_LIEU__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (trong BBNTVL)",
+          "value": "Lô NQ 7-10 dự án số 1 khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong BBNTVL)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_VAT_LIEU__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong BBNTVL)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_hoang_cong_chung",
+          "label": "Cán bộ GS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_nguyen_inh_iep",
+          "label": "CHT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_trinh_van_tuan",
+          "label": "CBKT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_vuong_xuan_thanh",
+          "label": "Người ký TVGS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Vương Xuân Thành"
+        },
+        {
+          "key": "LIST_VAT_LIEU__so_3",
+          "label": "Số biểu mẫu NTVL",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thanh_hoa",
+          "label": "Tỉnh/TP (lập biên bản NTVL)",
+          "value": "Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu TC (có dấu chấm – trong BBNTVL)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành."
+        },
+        {
+          "key": "LIST_VAT_LIEU__viet_nam",
+          "label": "Xuất xứ vật liệu",
+          "value": "Việt Nam"
+        },
+        {
+          "key": "LIST_VAT_LIEU__vuong_xuan_thanh",
+          "label": "Tên GS (ký tên – trong BBNTVL)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "Nghiệm thu vật liệu.docx",
+      "output": "8. Nghiệm thu vật liệu thạch cao.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_VAT_LIEU__1",
+          "label": "STT vật liệu",
+          "value": "1"
+        },
+        {
+          "key": "LIST_VAT_LIEU__2",
+          "label": "STT hàng 2 (để trống nếu chỉ 1 loại VL)",
+          "value": "2"
+        },
+        {
+          "key": "LIST_VAT_LIEU__3",
+          "label": "STT hàng 3 (để trống nếu dưới 3 loại VL)",
+          "value": "3"
+        },
+        {
+          "key": "LIST_VAT_LIEU__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số hợp đồng (dùng trong NTV liệu)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên công trình (trong NTV liệu)",
+          "value": "Cải tạo và trang bị cơ sở vật chất trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_co_phan_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên nhà thầu trong NTVL",
+          "value": "Công ty Cổ phần Xây dựng và Thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_VAT_LIEU__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh",
+          "label": "Tên đơn vị TVGS (trong BBNTVL)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh"
+        },
+        {
+          "key": "LIST_VAT_LIEU__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm thi công (trong BBNTVL)",
+          "value": "Lô NQ 7-10 dự án số 1 khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong BBNTVL)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_VAT_LIEU__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong BBNTVL)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_hoang_cong_chung",
+          "label": "Cán bộ GS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Hoàng Công Chung"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_nguyen_inh_iep",
+          "label": "CHT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_trinh_van_tuan",
+          "label": "CBKT (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Trịnh Văn Tuấn"
+        },
+        {
+          "key": "LIST_VAT_LIEU__ong_vuong_xuan_thanh",
+          "label": "Người ký TVGS (Ông: Họ Tên – trong BBNTVL)",
+          "value": "Ông: Vương Xuân Thành"
+        },
+        {
+          "key": "LIST_VAT_LIEU__so_3",
+          "label": "Số biểu mẫu NTVL",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thanh_hoa",
+          "label": "Tỉnh/TP (lập biên bản NTVL)",
+          "value": "Thanh Hoá"
+        },
+        {
+          "key": "LIST_VAT_LIEU__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu TC (có dấu chấm – trong BBNTVL)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành."
+        },
+        {
+          "key": "LIST_VAT_LIEU__viet_nam",
+          "label": "Xuất xứ vật liệu",
+          "value": "Việt Nam"
+        },
+        {
+          "key": "LIST_VAT_LIEU__vuong_xuan_thanh",
+          "label": "Tên GS (ký tên – trong BBNTVL)",
+          "value": "Vương Xuân Thành"
+        }
+      ]
+    },
+    {
+      "template": "Yêu cầu nghiệm thu công việc.docx",
+      "output": "9. Yêu cầu nghiệm thu công việc lần 1.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_YC_NTCV__01",
+          "label": "Số lần yêu cầu",
+          "value": "01"
+        },
+        {
+          "key": "LIST_YC_NTCV__16_30_31_12_2025",
+          "label": "Thời điểm đề nghị nghiệm thu",
+          "value": "16:30, 31/12/2025"
+        },
+        {
+          "key": "LIST_YC_NTCV__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số HĐ TC (trong YCNTCV)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_YC_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên CT (IN HOA – trong YCNTCV)",
+          "value": "Cải tạo và trang bị cơ sở vật chất Trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên đơn vị TC (trong YCNTCV)",
+          "value": "Công ty CP Xây dựng và thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên đơn vị TVGS (trong YCNTCV)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_YC_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm CT (IN HOA – trong YCNTCV)",
+          "value": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son",
+          "label": "Tên CĐT + CN (trong YCNTCV)",
+          "value": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong YCNTCV)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_YC_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong YCNTCV)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_3",
+          "label": "Số biểu mẫu YCNTCV",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_ti",
+          "label": "Địa điểm CT (thường – trong YCNTCV)",
+          "value": "Số Lô NQ 7-10 dự án số 1 Khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_YC_NTCV__thanh_hoa",
+          "label": "Tỉnh/TP + dấu phẩy (trong YCNTCV)",
+          "value": "Thanh Hoá,"
+        },
+        {
+          "key": "LIST_YC_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu (IN HOA – trong YCNTCV)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành"
+        }
+      ]
+    },
+    {
+      "template": "Yêu cầu nghiệm thu công việc.docx",
+      "output": "10. Yêu cầu nghiệm thu công việc lần 2.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_YC_NTCV__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số HĐ TC (trong YCNTCV)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_YC_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên CT (IN HOA – trong YCNTCV)",
+          "value": "Cải tạo và trang bị cơ sở vật chất Trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên đơn vị TC (trong YCNTCV)",
+          "value": "Công ty CP Xây dựng và thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên đơn vị TVGS (trong YCNTCV)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_YC_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm CT (IN HOA – trong YCNTCV)",
+          "value": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son",
+          "label": "Tên CĐT + CN (trong YCNTCV)",
+          "value": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong YCNTCV)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_YC_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong YCNTCV)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_3",
+          "label": "Số biểu mẫu YCNTCV",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_ti",
+          "label": "Địa điểm CT (thường – trong YCNTCV)",
+          "value": "Số Lô NQ 7-10 dự án số 1 Khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_YC_NTCV__thanh_hoa",
+          "label": "Tỉnh/TP + dấu phẩy (trong YCNTCV)",
+          "value": "Thanh Hoá,"
+        },
+        {
+          "key": "LIST_YC_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu (IN HOA – trong YCNTCV)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành"
+        }
+      ]
+    },
+    {
+      "template": "Yêu cầu nghiệm thu công việc.docx",
+      "output": "11. Yêu cầu nghiệm thu công việc lần 3.docx",
+      "enabled": true,
+      "fields": [
+        {
+          "key": "LIST_YC_NTCV__3112_2025_h_kt_bidv_lso_bph",
+          "label": "Số HĐ TC (trong YCNTCV)",
+          "value": "3112/2025/HĐKT/BIDV.LSO-BPH"
+        },
+        {
+          "key": "LIST_YC_NTCV__cai_tao_va_trang_bi_co_so_vat_chat_tru_so_pgd_hac_thanh_chi_nhan",
+          "label": "Tên CT (IN HOA – trong YCNTCV)",
+          "value": "Cải tạo và trang bị cơ sở vật chất Trụ sở PGD Hạc Thành – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_cp_xay_dung_va_thuong_mai_bac_phu_hung",
+          "label": "Tên đơn vị TC (trong YCNTCV)",
+          "value": "Công ty CP Xây dựng và thương mại Bắc Phú Hưng"
+        },
+        {
+          "key": "LIST_YC_NTCV__cong_ty_tnhh_tu_van_au_tu_va_xay_dung_anh_duong",
+          "label": "Tên đơn vị TVGS (trong YCNTCV)",
+          "value": "Công ty TNHH Tư vấn đầu tư và xây dựng Ánh Dương"
+        },
+        {
+          "key": "LIST_YC_NTCV__lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_tinh",
+          "label": "Địa điểm CT (IN HOA – trong YCNTCV)",
+          "value": "LÔ NQ 7-10 DỰ ÁN SỐ 1 KHU ĐÔ THỊ TRUNG TÂM PHƯỜNG HẠC THÀNH, TỈNH THANH HOÁ"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngan_hang_tmcp_au_tu_va_phat_trien_viet_nam_chi_nhanh_lam_son",
+          "label": "Tên CĐT + CN (trong YCNTCV)",
+          "value": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Lam Sơn"
+        },
+        {
+          "key": "LIST_YC_NTCV__ngay_31_12_2025",
+          "label": "Ngày ký HĐ (dd/mm/yyyy – trong YCNTCV)",
+          "value": "ngày 31/12/2025"
+        },
+        {
+          "key": "LIST_YC_NTCV__nguyen_inh_iep",
+          "label": "Tên CHT (ký tên – trong YCNTCV)",
+          "value": "Nguyễn Đình Điệp"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_3",
+          "label": "Số biểu mẫu YCNTCV",
+          "value": "số 3"
+        },
+        {
+          "key": "LIST_YC_NTCV__so_lo_nq_7_10_du_an_so_1_khu_o_thi_trung_tam_phuong_hac_thanh_ti",
+          "label": "Địa điểm CT (thường – trong YCNTCV)",
+          "value": "Số Lô NQ 7-10 dự án số 1 Khu đô thị trung tâm phường Hạc Thành, tỉnh Thanh Hoá"
+        },
+        {
+          "key": "LIST_YC_NTCV__thanh_hoa",
+          "label": "Tỉnh/TP + dấu phẩy (trong YCNTCV)",
+          "value": "Thanh Hoá,"
+        },
+        {
+          "key": "LIST_YC_NTCV__thi_cong_cai_tao_xay_dung_va_trang_bi_co_so_vat_chat_pgd_hac_tha",
+          "label": "Tên gói thầu (IN HOA – trong YCNTCV)",
+          "value": "Thi công cải tạo xây dựng và trang bị cơ sở vật chất PGD Hạc Thành"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "source_folder": "/var/www/Hồ sơ chạy thử VBA",
+    "group_templates": {
+      "LIST_NTCV": "BB Nghiệm thu công việc.docx",
+      "LIST_VAT_LIEU": "Nghiệm thu vật liệu.docx",
+      "LIST_YC_NTCV": "Yêu cầu nghiệm thu công việc.docx"
+    },
+    "doc_files_skipped": [],
+    "doc_files_converted": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": "bphh-docgen",
+  "version": "1.1.0",
+  "description": "BPHH DOCX Generator – Electron + React",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "concurrently -k \"vite\" \"wait-on http://localhost:5173 && electron .\"",
+    "build": "vite build && electron-builder",
+    "build:mac": "vite build && electron-builder --mac",
+    "build:win": "vite build && electron-builder --win",
+    "build:all": "vite build && electron-builder --win && electron-builder --mac",
+    "preview": "vite preview",
+    "sample-excel": "python3 scripts/create-sample-excel.py",
+    "release": "./scripts/release.sh",
+    "release:win": "./scripts/release.sh --win-only",
+    "release:mac": "./scripts/release.sh --mac",
+    "release:both": "./scripts/release.sh --mac",
+    "release:mac-only": "./scripts/release.sh --mac-only",
+    "release:patch": "./scripts/release.sh --bump=patch",
+    "release:patch:win": "./scripts/release.sh --win-only --bump=patch",
+    "release:minor": "./scripts/release.sh --bump=minor",
+    "release:minor:win": "./scripts/release.sh --win-only --bump=minor",
+    "release:major": "./scripts/release.sh --bump=major",
+    "release:major:win": "./scripts/release.sh --win-only --bump=major",
+    "release:patch:mac": "./scripts/release.sh --bump=patch --mac",
+    "release:minor:mac": "./scripts/release.sh --bump=minor --mac"
+  },
+  "dependencies": {
+    "docxtemplater": "^3.45.0",
+    "exceljs": "^4.4.0",
+    "jszip": "^3.10.1",
+    "pizzip": "^3.1.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "electron": "^33.4.0",
+    "electron-builder": "^25.1.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.5",
+    "wait-on": "^8.0.1"
+  },
+  "build": {
+    "appId": "vn.bphh.docgen",
+    "productName": "BPHH-DocGen",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "assets/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "assets/templates_bundle.zip",
+        "to": "assets/templates_bundle.zip"
+      },
+      {
+        "from": "catalog.json",
+        "to": "catalog.json"
+      },
+      {
+        "from": "project-data.demo.friendly.json",
+        "to": "project-data.demo.friendly.json"
+      }
+    ],
+    "mac": {
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "x64",
+            "arm64"
+          ]
+        }
+      ],
+      "category": "public.app-category.productivity"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "zip",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "BPHH-DocGen-${version}-${arch}.${ext}",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "deleteAppDataOnUninstall": false,
+      "createStartMenuShortcut": true,
+      "shortcutName": "BPHH-DocGen",
+      "artifactName": "BPHH-DocGen-Setup-${version}.exe"
+    }
+  }
+}

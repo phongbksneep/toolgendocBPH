@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv-build/
+.venv/
+venv/
+*.egg-info/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Runtime cache
+_runtime/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Editor
+.vscode/
+.idea/
+
+# Node / Electron app
+node_modules/
+dist/
+.vite/
+release/
+
+# Logs
+*.log
+debug.log

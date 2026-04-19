@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "date": "2026-04-18",
-  "changelog": "Template editor UX major refresh (wider workspace, Word-like preview, panel toggles) + runtime/data sync hardening.",
+  "date": "2026-04-19",
+  "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.1.0",
   "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-1.1.0-arm64.dmg",
   "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-1.1.0.dmg",
   "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.0/BPHH-DocGen-Setup-1.1.0.exe",

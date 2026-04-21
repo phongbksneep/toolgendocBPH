@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build-win:
     runs-on: windows-latest
@@ -23,6 +27,46 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
+      - name: Resolve tag version
+        shell: pwsh
+        run: |
+          $tag = "${{ github.ref_name }}"
+          if (-not $tag.StartsWith('v')) {
+            throw "Tag must start with v. Got: $tag"
+          }
+          $version = $tag.Substring(1)
+          "TAG_VERSION=$version" >> $env:GITHUB_ENV
+          Write-Host "TAG_VERSION=$version"
+
+      - name: Validate app version matches tag
+        shell: pwsh
+        run: |
+          $expected = "${env:TAG_VERSION}"
+          $pkgVersion = node -p "require('./package.json').version"
+          if ($pkgVersion -ne $expected) {
+            throw "package.json version ($pkgVersion) != tag version ($expected)"
+          }
+
+          $main = Get-Content "electron/main.cjs" -Raw
+          $m = [regex]::Match($main, "const APP_VERSION = '([^']+)';")
+          if (-not $m.Success) {
+            throw "Cannot find APP_VERSION in electron/main.cjs"
+          }
+          $appVersion = $m.Groups[1].Value
+          if ($appVersion -ne $expected) {
+            throw "APP_VERSION ($appVersion) != tag version ($expected)"
+          }
+
+          Write-Host "Version check passed: $expected"
+
+      - name: Clean release directory
+        shell: pwsh
+        run: |
+          if (Test-Path release) {
+            Remove-Item release -Recurse -Force
+          }
+          New-Item -ItemType Directory -Path release | Out-Null
+
       - name: Install dependencies
         run: npm ci
 
@@ -31,18 +75,45 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Verify expected artifacts only
+        shell: pwsh
+        run: |
+          $version = "${env:TAG_VERSION}"
+          $expectedExe = "BPHH-DocGen-Setup-$version.exe"
+          $expectedZip = "BPHH-DocGen-$version-x64.zip"
+          $expected = @($expectedExe, $expectedZip)
+
+          $releaseFiles = Get-ChildItem release -File
+          $candidate = $releaseFiles | Where-Object { $_.Name -match '^BPHH-DocGen-.*(Setup-.*\.exe|.*-x64\.zip)$' }
+
+          foreach ($name in $expected) {
+            if (-not (Test-Path (Join-Path release $name))) {
+              throw "Missing expected artifact: release/$name"
+            }
+          }
+
+          $unexpected = $candidate | Where-Object { $expected -notcontains $_.Name }
+          if ($unexpected.Count -gt 0) {
+            Write-Host "Unexpected artifacts found:"
+            $unexpected | ForEach-Object { Write-Host " - $($_.Name)" }
+            throw "Found stale/mismatched artifacts in release/"
+          }
+
+          Write-Host "Artifact check passed"
+
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: win-release
+          name: win-release-${{ env.TAG_VERSION }}
           path: |
-            release/BPHH-DocGen-Setup-*.exe
-            release/BPHH-DocGen-*-x64.zip
+            release/BPHH-DocGen-Setup-${{ env.TAG_VERSION }}.exe
+            release/BPHH-DocGen-${{ env.TAG_VERSION }}-x64.zip
 
       - name: Publish GitHub Release assets
         if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
+          overwrite_files: true
           files: |
-            release/BPHH-DocGen-Setup-*.exe
-            release/BPHH-DocGen-*-x64.zip
+            release/BPHH-DocGen-Setup-${{ env.TAG_VERSION }}.exe
+            release/BPHH-DocGen-${{ env.TAG_VERSION }}-x64.zip

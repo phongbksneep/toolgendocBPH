@@ -20,7 +20,7 @@ const SETTINGS_FILE   = path.join(RUNTIME_DIR, 'settings.json');
 const VERSION_FILE    = path.join(RUNTIME_DIR, 'VERSION');
 const FINGERPRINT_FILE = path.join(RUNTIME_DIR, 'CATALOG_FINGERPRINT');
 
-const APP_VERSION = '1.1.0';
+const APP_VERSION = '1.1.5';
 const DEFAULT_UPDATE_URL = 'https://raw.githubusercontent.com/phongbksneep/toolgendocBPH/main/version.json';
 
 function loadSettings() {

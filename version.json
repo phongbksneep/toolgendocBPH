@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "date": "2026-04-22",
-  "changelog": "Release v1.1.6 - workflow hardening and release-channel cleanup",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.6/BPHH-DocGen-Setup-1.1.6.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.6/BPHH-DocGen-1.1.6-x64.zip"
+  "changelog": "Release v1.1.7 - customer label/mapping fixes from feedback sheet",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.7/BPHH-DocGen-Setup-1.1.7.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.7/BPHH-DocGen-1.1.7-x64.zip"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "date": "2026-04-22",
-  "changelog": "Release v1.1.11 - fix friendly label naming for Ban QLCT field",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.11/BPHH-DocGen-Setup-1.1.11.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.11/BPHH-DocGen-1.1.11-x64.zip"
+  "changelog": "Release v1.1.12 - fix mixed/uppercase mapping for gói thầu + dự án fields",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.12/BPHH-DocGen-Setup-1.1.12.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.12/BPHH-DocGen-1.1.12-x64.zip"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "date": "2026-04-22",
-  "changelog": "Release v1.1.9 - hotfix CĐT/TC context mapping against highlighted source",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.9/BPHH-DocGen-Setup-1.1.9.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.9/BPHH-DocGen-1.1.9-x64.zip"
+  "changelog": "Release v1.1.10 - validated CĐT/TC normal-uppercase mapping vs highlighted source input",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.10/BPHH-DocGen-Setup-1.1.10.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.10/BPHH-DocGen-1.1.10-x64.zip"
 }

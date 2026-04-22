@@ -1,9 +1,7 @@
 {
-  "version": "1.1.5",
-  "date": "2026-04-21",
-  "changelog": "Release v1.1.5 - enforced version guardrails and clean artifact pipeline",
-  "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.5/BPHH-DocGen-1.1.5-arm64.dmg",
-  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.5/BPHH-DocGen-1.1.5.dmg",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.5/BPHH-DocGen-Setup-1.1.5.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.5/BPHH-DocGen-1.1.5-x64.zip"
+  "version": "1.1.6",
+  "date": "2026-04-22",
+  "changelog": "Release v1.1.6 - workflow hardening and release-channel cleanup",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.6/BPHH-DocGen-Setup-1.1.6.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.6/BPHH-DocGen-1.1.6-x64.zip"
 }

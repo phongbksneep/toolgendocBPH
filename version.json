@@ -1,9 +1,9 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.15",
   "date": "2026-04-24",
-  "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.1.13",
-  "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.13/BPHH-DocGen-1.1.13-arm64.dmg",
-  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.13/BPHH-DocGen-1.1.13.dmg",
-  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.13/BPHH-DocGen-Setup-1.1.13.exe",
-  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.13/BPHH-DocGen-1.1.13-x64.zip"
+  "changelog": "Xem chi tiết: https://github.com/phongbksneep/toolgendocBPH/releases/tag/v1.1.15",
+  "mac_arm64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.15/BPHH-DocGen-1.1.15-arm64.dmg",
+  "mac_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.15/BPHH-DocGen-1.1.15.dmg",
+  "win_x64": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.15/BPHH-DocGen-Setup-1.1.15.exe",
+  "win_x64_zip": "https://github.com/phongbksneep/toolgendocBPH/releases/download/v1.1.15/BPHH-DocGen-1.1.15-x64.zip"
 }
